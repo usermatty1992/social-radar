@@ -687,6 +687,349 @@
           "snapshot_count": 2
         }
       ]
+    },
+    {
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "topics": [
+        {
+          "id": "gt_bd1c8fffdbae06462eae3cee",
+          "title": "道瓊工業平均指數",
+          "keywords": [
+            "道瓊工業平均指數"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T21:20:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "500+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "快訊／重磅金融業消息來了 美股開盤漲跌互見、台指期夜盤守住48K",
+              "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E9%87%8D%E7%A3%85%E9%87%91%E8%9E%8D%E6%A5%AD%E6%B6%88%E6%81%AF%E4%BE%86%E4%BA%86-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B-%E5%8F%B0%E6%8C%87%E6%9C%9F%E5%A4%9C%E7%9B%A4%E5%AE%88%E4%BD%8F48k-134500637.html",
+              "publisher": "Yahoo新聞"
+            },
+            {
+              "title": "晶片股再度面臨賣壓 標普與那指雙雙開低 | 證券",
+              "url": "https://www.cna.com.tw/news/afe/202610130325.aspx",
+              "publisher": "中央社 CNA"
+            },
+            {
+              "title": "美股收盤》油價走高、美光跌3.9％ 美股漲跌互見 台積電ADR跌1.98％",
+              "url": "https://ec.ltn.com.tw/article/breakingnews/5604207",
+              "publisher": "自由財經"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_6fd037f910c09c6e728f4590",
+          "title": "人民幣",
+          "keywords": [
+            "人民幣"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T21:20:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_db704762b5c9a8ffcba30c79",
+          "title": "mu",
+          "keywords": [
+            "mu"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T21:10:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "500+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "Micron (MU) Stock Could Be 16% Overvalued On Buyback Plans",
+              "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-mu/micron-technology/news/micron-mu-stock-could-be-16-overvalued-on-buyback-plans",
+              "publisher": "Simply Wall Street"
+            },
+            {
+              "title": "Micron's HBM4 Ramp-Up: Can Higher Pricing Lift Margins Further?",
+              "url": "https://www.tradingview.com/news/zacks:b009810d0094b:0-micron-s-hbm4-ramp-up-can-higher-pricing-lift-margins-further/",
+              "publisher": "TradingView"
+            },
+            {
+              "title": "Micron Expands Share Buybacks to $35 Billion!",
+              "url": "https://www.xtb.com/cy/market-analysis/news-and-research/micron-expands-share-buybacks-to-35-billion",
+              "publisher": "XTB.com"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_42b4625400a3252abcd2d03e",
+          "title": "補貼",
+          "keywords": [
+            "補貼"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T21:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "500+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 3
+        },
+        {
+          "id": "gt_dfd30d4c8785e65ee5c770b6",
+          "title": "atlético madrid vs man utd",
+          "keywords": [
+            "atlético madrid vs man utd"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:20:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "Šeško, Dorgu & Mazraoui: Latest Manchester United injury news",
+              "url": "https://www.3addedminutes.com/sport/football/manchester-united/sesko-dorgu-mazraoui-latest-manchester-united-injury-news-9281353",
+              "publisher": "3 Added Minutes"
+            },
+            {
+              "title": "Why Is Marcus Rashford Not Playing Today For Manchester United vs. Tottenham?",
+              "url": "https://www.aol.co.uk/articles/why-marcus-rashford-not-playing-162334000.html",
+              "publisher": "AOL.com"
+            },
+            {
+              "title": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
+              "url": "https://www.espn.co.uk/football/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick",
+              "publisher": "ESPN"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_64b1ab387f9e06af86506ffa",
+          "title": "李 㼈",
+          "keywords": [
+            "李 㼈"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:20:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "500+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "李㼈震撼表態了！突現身力挺「民進黨這1參選人」雙手比讚喊話 他驚喜：不可能！",
+              "url": "https://tw.news.yahoo.com/%E6%9D%8E%E3%BC%88%E9%9C%87%E6%92%BC%E8%A1%A8%E6%85%8B%E4%BA%86-%E7%AA%81%E7%8F%BE%E8%BA%AB%E5%8A%9B%E6%8C%BA-%E6%B0%91%E9%80%B2%E9%BB%A8%E9%80%991%E5%8F%83%E9%81%B8%E4%BA%BA-%E9%9B%99%E6%89%8B%E6%AF%94%E8%AE%9A%E5%96%8A%E8%A9%B1-%E4%BB%96%E9%A9%9A%E5%96%9C-094051352.html",
+              "publisher": "Yahoo新聞"
+            },
+            {
+              "title": "李㼈公開表態支持綠營新北市議員！ 消失八點檔9年…影片曝光驚呆網- 股市爆料同學會",
+              "url": "https://www.cmoney.tw/forum/article/185629000",
+              "publisher": "CMoney"
+            },
+            {
+              "title": "李㼈公開表態支持綠營新北市議員！　消失八點檔9年…影片曝光驚呆網",
+              "url": "https://star.ettoday.net/news/3254094",
+              "publisher": "ETtoday星光雲| ETtoday新聞雲"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_b2508c83b816bcf47880fec3",
+          "title": "南亞塑膠",
+          "keywords": [
+            "南亞塑膠"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:10:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "1000+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "煉油、電子材料雙引擎，台塑四寶Q4營運看升- 新聞",
+              "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=9a8e9ec6-294b-4811-960b-73d0a7f16ab1",
+              "publisher": "MoneyDJ"
+            },
+            {
+              "title": "台塑化快漲停、南亞喜收半根停板！台塑台化…台塑四寶逆勢漲、外資卻提款下車還會回頭？目標價一次看",
+              "url": "https://www.businesstoday.com.tw/article/category/183008/post/202610130008/",
+              "publisher": "今周刊"
+            },
+            {
+              "title": "南亞前三季賺逾1股本！ 法人按讚喊買 目標價395元",
+              "url": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E5%89%8D%E4%B8%89%E5%AD%A3%E8%B3%BA%E9%80%BE1%E8%82%A1%E6%9C%AC-%E6%B3%95%E4%BA%BA%E6%8C%89%E8%AE%9A%E5%96%8A%E8%B2%B7-%E7%9B%AE%E6%A8%99%E5%83%B9395%E5%85%83-014900612.html",
+              "publisher": "Yahoo股市"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 3
+        },
+        {
+          "id": "gt_250d13ce409d6f34bbf09e7e",
+          "title": "galatasaray vs barcelona",
+          "keywords": [
+            "galatasaray vs barcelona"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:10:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "200+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "Licensable picture: Sabah FK v Slavia Prague - UEFA Champions League",
+              "url": "https://www.reutersconnect.com/item/sabah-fk-v-slavia-prague-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0I3",
+              "publisher": "Reuters Connect"
+            },
+            {
+              "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+              "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFEREVQ",
+              "publisher": "Reuters Connect"
+            },
+            {
+              "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+              "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0JY",
+              "publisher": "Reuters Connect"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 3
+        },
+        {
+          "id": "gt_a0dc9cb0257dcaea00eea573",
+          "title": "跑步",
+          "keywords": [
+            "跑步"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:10:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "終點前倒地猝逝！韓學霸網紅跑半馬釀悲劇 得年25歲",
+              "url": "https://www.chinatimes.com/realtimenews/20261013004445-260404",
+              "publisher": "中時新聞網"
+            },
+            {
+              "title": "首爾半馬傳憾事！正妹跑者距終點5百公尺倒地亡 「學霸網紅」背景被挖出 | CTWANT",
+              "url": "https://today.line.me/tw/v3/article/gzp3L08?referral=worldtrend",
+              "publisher": "LINE TODAY"
+            },
+            {
+              "title": "只差500公尺完賽！25歲「KAIST學霸網紅」跑半馬突倒下　送醫不治...跑友目擊CPR悲悼：願妳安息",
+              "url": "https://www.mirrormedia.mg/external/mirrordaily_91386",
+              "publisher": "鏡週刊Mirror Media"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 2
+        },
+        {
+          "id": "gt_c0147e7b641ff1eb6b88a80b",
+          "title": "兵工廠 對 里爾",
+          "keywords": [
+            "兵工廠 對 里爾"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-13T20:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "「銀河唯一」返嚟啦：阿仙奴現與雲加時期相似",
+              "url": "https://hk.sports.yahoo.com/news/%E9%8A%80%E6%B2%B3%E5%94%AF-%E8%BF%94%E5%9A%9F%E5%95%A6-%E9%98%BF%E4%BB%99%E5%A5%B4%E7%8F%BE%E8%88%87%E9%9B%B2%E5%8A%A0%E6%99%82%E6%9C%9F%E7%9B%B8%E4%BC%BC-035945491.html",
+              "publisher": "Yahoo體育：新聞"
+            },
+            {
+              "title": "兵工廠下半場7分鐘連進3球 3比0大勝里爾並列歐冠榜首",
+              "url": "https://sport.ftvnews.com.tw/news/detail/2026A14W0044",
+              "publisher": "民視運動網"
+            },
+            {
+              "title": "阿仙奴迎里爾基奧特「倒戈」成看點- 體育",
+              "url": "https://epaper.tkww.hk/a/202610/13/AP6acd4085e4b0e1e2ee73793a.html",
+              "publisher": "大公文匯網"
+            }
+          ],
+          "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+          "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+          "collected_at": "2026-10-13T21:39:40.328702+00:00",
+          "snapshot_count": 3
+        }
+      ]
     }
   ]
 }

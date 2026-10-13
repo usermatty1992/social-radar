@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "collected_at": "2026-10-13T21:32:52.839374+00:00",
+  "collected_at": "2026-10-13T21:39:40.328702+00:00",
   "source": "google_trends",
   "topics": [
     {
@@ -36,9 +36,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_6fd037f910c09c6e728f4590",
@@ -57,9 +57,9 @@
       "related_posts": [],
       "related_news": [],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_db704762b5c9a8ffcba30c79",
@@ -94,9 +94,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -115,9 +115,9 @@
       "related_posts": [],
       "related_news": [],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_dfd30d4c8785e65ee5c770b6",
@@ -136,25 +136,62 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "Why was Leny Yoro sent off for Manchester United at Atletico Madrid?",
-          "url": "https://www.independent.co.uk/sport/football/leny-yoro-red-card-man-utd-atletico-madrid-b3066218.html",
-          "publisher": "The Independent"
+          "title": "Šeško, Dorgu & Mazraoui: Latest Manchester United injury news",
+          "url": "https://www.3addedminutes.com/sport/football/manchester-united/sesko-dorgu-mazraoui-latest-manchester-united-injury-news-9281353",
+          "publisher": "3 Added Minutes"
         },
         {
-          "title": "Amazon Prime glitch shows Man Utd beating Atletico despite losing first half",
-          "url": "https://www.thesun.co.uk/sport/40675907/amazon-prime-score-glitch-man-utd-beating-atletico-madrid/",
-          "publisher": "The Sun"
+          "title": "Why Is Marcus Rashford Not Playing Today For Manchester United vs. Tottenham?",
+          "url": "https://www.aol.co.uk/articles/why-marcus-rashford-not-playing-162334000.html",
+          "publisher": "AOL.com"
         },
         {
-          "title": "Ratings: Atlético earn first UCL win this season over Manchester United",
-          "url": "https://www.intothecalderon.com/atletico-madrid-player-ratings/28824/atletico-madrid-manchester-united-champions-league-player-ratings-barrios-lookman-koke",
-          "publisher": "Into the Calderon"
+          "title": "Michael Carrick: No timeline for Benjamin Sesko's Man United return",
+          "url": "https://www.espn.co.uk/football/story/_/id/50142759/man-united-injury-news-benjamin-sesko-michael-carrick",
+          "publisher": "ESPN"
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
+    },
+    {
+      "id": "gt_64b1ab387f9e06af86506ffa",
+      "title": "李 㼈",
+      "keywords": [
+        "李 㼈"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-13T20:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "李㼈震撼表態了！突現身力挺「民進黨這1參選人」雙手比讚喊話 他驚喜：不可能！",
+          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E3%BC%88%E9%9C%87%E6%92%BC%E8%A1%A8%E6%85%8B%E4%BA%86-%E7%AA%81%E7%8F%BE%E8%BA%AB%E5%8A%9B%E6%8C%BA-%E6%B0%91%E9%80%B2%E9%BB%A8%E9%80%991%E5%8F%83%E9%81%B8%E4%BA%BA-%E9%9B%99%E6%89%8B%E6%AF%94%E8%AE%9A%E5%96%8A%E8%A9%B1-%E4%BB%96%E9%A9%9A%E5%96%9C-094051352.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "李㼈公開表態支持綠營新北市議員！ 消失八點檔9年…影片曝光驚呆網- 股市爆料同學會",
+          "url": "https://www.cmoney.tw/forum/article/185629000",
+          "publisher": "CMoney"
+        },
+        {
+          "title": "李㼈公開表態支持綠營新北市議員！　消失八點檔9年…影片曝光驚呆網",
+          "url": "https://star.ettoday.net/news/3254094",
+          "publisher": "ETtoday星光雲| ETtoday新聞雲"
+        }
+      ],
+      "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_b2508c83b816bcf47880fec3",
@@ -189,9 +226,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_250d13ce409d6f34bbf09e7e",
@@ -220,15 +257,15 @@
           "publisher": "Reuters Connect"
         },
         {
-          "title": "Licensable picture: Partizan v Panathinaikos - EuroLeague",
-          "url": "https://www.reutersconnect.com/item/partizan-v-panathinaikos-euroleague/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFERTc5",
+          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0JY",
           "publisher": "Reuters Connect"
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_a0dc9cb0257dcaea00eea573",
@@ -252,20 +289,20 @@
           "publisher": "中時新聞網"
         },
         {
-          "title": "25歲韓網紅柳智媛跑半馬猝逝！離終點500公尺倒地　主辦證實噩耗",
-          "url": "https://www.nownews.com/news/6883117",
-          "publisher": "NOWnews今日新聞"
+          "title": "首爾半馬傳憾事！正妹跑者距終點5百公尺倒地亡 「學霸網紅」背景被挖出 | CTWANT",
+          "url": "https://today.line.me/tw/v3/article/gzp3L08?referral=worldtrend",
+          "publisher": "LINE TODAY"
         },
         {
-          "title": "首爾半馬傳憾事！正妹跑者距終點5百公尺倒地亡「學霸網紅」背景被挖出- 國際新聞",
-          "url": "https://news.pchome.com.tw/internation/m00361/20261013/index-79190285761206361011.html",
-          "publisher": "PChome Online 新聞"
+          "title": "只差500公尺完賽！25歲「KAIST學霸網紅」跑半馬突倒下　送醫不治...跑友目擊CPR悲悼：願妳安息",
+          "url": "https://www.mirrormedia.mg/external/mirrordaily_91386",
+          "publisher": "鏡週刊Mirror Media"
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_c0147e7b641ff1eb6b88a80b",
@@ -300,46 +337,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 2
-    },
-    {
-      "id": "gt_b8108af8cc94655da134d4c8",
-      "title": "馬德里競技 對 曼聯",
-      "keywords": [
-        "馬德里競技 對 曼聯"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-13T19:00:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "500+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "足球運彩分析》10/14 馬競回主場拚歐冠首勝 曼聯近期聯賽狀態起伏",
-          "url": "https://tw.sports.yahoo.com/news/%E8%B6%B3%E7%90%83%E9%81%8B%E5%BD%A9%E5%88%86%E6%9E%90%E3%80%8B1014-%E9%A6%AC%E7%AB%B6%E5%9B%9E%E4%B8%BB%E5%A0%B4%E6%8B%9A%E6%AD%90%E5%86%A0%E9%A6%96%E5%8B%9D-%E6%9B%BC%E8%81%AF%E8%BF%91%E6%9C%9F%E8%81%AF%E8%B3%BD%E7%8B%80%E6%85%8B%E8%B5%B7%E4%BC%8F-084230613.html",
-          "publisher": "Yahoo運動"
-        },
-        {
-          "title": "梳爾明奈齊避戰 卡域克：目前不是災難",
-          "url": "https://sports.now.com/home/news/details?id=39812180899",
-          "publisher": "Now Sports"
-        },
-        {
-          "title": "艾舒利楊格：福仔作客馬體會知己知彼",
-          "url": "https://hk.on.cc/hk/bkn/cnt/sport/20261012/bkn-20261012233053084-1012_00882_001.html",
-          "publisher": "on.cc東網"
-        }
-      ],
-      "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "collected_at": "2026-10-13T21:32:52.839374+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
+      "collected_at": "2026-10-13T21:39:40.328702+00:00",
+      "snapshot_count": 3
     }
   ]
 }
