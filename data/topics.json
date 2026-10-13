@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T21:39:40.328702+00:00",
+  "updated_at": "2026-10-13T21:45:04.878508+00:00",
   "topics": [
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -19,9 +19,9 @@
       "related_posts": [],
       "related_news": [],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 3
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 4
     },
     {
       "id": "gt_64b1ab387f9e06af86506ffa",
@@ -56,9 +56,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_250d13ce409d6f34bbf09e7e",
@@ -77,13 +77,13 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "Licensable picture: Sabah FK v Slavia Prague - UEFA Champions League",
-          "url": "https://www.reutersconnect.com/item/sabah-fk-v-slavia-prague-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0I3",
+          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
+          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFERERa",
           "publisher": "Reuters Connect"
         },
         {
-          "title": "Licensable picture: Galatasaray v Barcelona - UEFA Champions League",
-          "url": "https://www.reutersconnect.com/item/galatasaray-v-barcelona-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFEREVQ",
+          "title": "Licensable picture: Sabah FK v Slavia Prague - UEFA Champions League",
+          "url": "https://www.reutersconnect.com/item/sabah-fk-v-slavia-prague-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwTDFDV0Ew",
           "publisher": "Reuters Connect"
         },
         {
@@ -93,9 +93,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 3
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 4
     },
     {
       "id": "gt_b2508c83b816bcf47880fec3",
@@ -130,9 +130,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 3
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 4
     },
     {
       "id": "gt_c0147e7b641ff1eb6b88a80b",
@@ -151,25 +151,25 @@
       "related_posts": [],
       "related_news": [
         {
+          "title": "兵工廠下半場7分鐘連進3球 3比0大勝里爾並列歐冠榜首 | 民視新聞網",
+          "url": "https://today.line.me/tw/v3/article/zNMg2Qg",
+          "publisher": "LINE TODAY"
+        },
+        {
           "title": "「銀河唯一」返嚟啦：阿仙奴現與雲加時期相似",
           "url": "https://hk.sports.yahoo.com/news/%E9%8A%80%E6%B2%B3%E5%94%AF-%E8%BF%94%E5%9A%9F%E5%95%A6-%E9%98%BF%E4%BB%99%E5%A5%B4%E7%8F%BE%E8%88%87%E9%9B%B2%E5%8A%A0%E6%99%82%E6%9C%9F%E7%9B%B8%E4%BC%BC-035945491.html",
           "publisher": "Yahoo體育：新聞"
         },
         {
-          "title": "兵工廠下半場7分鐘連進3球 3比0大勝里爾並列歐冠榜首",
-          "url": "https://sport.ftvnews.com.tw/news/detail/2026A14W0044",
-          "publisher": "民視運動網"
-        },
-        {
-          "title": "阿仙奴迎里爾基奧特「倒戈」成看點- 體育",
-          "url": "https://epaper.tkww.hk/a/202610/13/AP6acd4085e4b0e1e2ee73793a.html",
-          "publisher": "大公文匯網"
+          "title": "歐聯｜十人曼聯作客馬體會吞兩蛋 各項賽事5場不勝",
+          "url": "https://www.stheadline.com/football-news/3625834/%E6%AD%90%E8%81%AF%E5%8D%81%E4%BA%BA%E6%9B%BC%E8%81%AF%E4%BD%9C%E5%AE%A2%E9%A6%AC%E9%AB%94%E6%9C%83%E5%90%9E%E5%85%A9%E8%9B%8B-%E5%90%84%E9%A0%85%E8%B3%BD%E4%BA%8B5%E5%A0%B4%E4%B8%8D%E5%8B%9D",
+          "publisher": "星島頭條"
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 3
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 4
     },
     {
       "id": "gt_b8108af8cc94655da134d4c8",
@@ -373,9 +373,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_6fd037f910c09c6e728f4590",
@@ -394,9 +394,9 @@
       "related_posts": [],
       "related_news": [],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_db704762b5c9a8ffcba30c79",
@@ -431,9 +431,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_dfd30d4c8785e65ee5c770b6",
@@ -468,9 +468,9 @@
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     },
     {
       "id": "gt_a0dc9cb0257dcaea00eea573",
@@ -494,20 +494,20 @@
           "publisher": "中時新聞網"
         },
         {
-          "title": "首爾半馬傳憾事！正妹跑者距終點5百公尺倒地亡 「學霸網紅」背景被挖出 | CTWANT",
-          "url": "https://today.line.me/tw/v3/article/gzp3L08?referral=worldtrend",
-          "publisher": "LINE TODAY"
+          "title": "25歲韓網紅柳智媛跑半馬猝逝！離終點500公尺倒地　主辦證實噩耗",
+          "url": "https://www.nownews.com/news/6883117",
+          "publisher": "NOWnews今日新聞"
         },
         {
-          "title": "只差500公尺完賽！25歲「KAIST學霸網紅」跑半馬突倒下　送醫不治...跑友目擊CPR悲悼：願妳安息",
-          "url": "https://www.mirrormedia.mg/external/mirrordaily_91386",
-          "publisher": "鏡週刊Mirror Media"
+          "title": "首爾半馬傳憾事！正妹跑者距終點5百公尺倒地亡「學霸網紅」背景被挖出- 國際新聞",
+          "url": "https://news.pchome.com.tw/internation/m00361/20261013/index-79190285761206361011.html",
+          "publisher": "PChome Online 新聞"
         }
       ],
       "first_seen_at": "2026-10-13T21:32:52.839374+00:00",
-      "last_seen_at": "2026-10-13T21:39:40.328702+00:00",
-      "collected_at": "2026-10-13T21:39:40.328702+00:00",
-      "snapshot_count": 2
+      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
+      "collected_at": "2026-10-13T21:45:04.878508+00:00",
+      "snapshot_count": 3
     }
   ]
 }
