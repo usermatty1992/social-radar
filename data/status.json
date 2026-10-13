@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "google_trends": {
+      "enabled": true,
+      "state": "ok",
+      "last_attempt_at": "2026-10-13T21:14:15.972903+00:00",
+      "last_success_at": "2026-10-13T21:14:15.972903+00:00",
+      "count": 10,
+      "message": "Google Trends 台灣 RSS；未提供活躍狀態與相關搜尋詞。"
+    },
+    "threads": {
+      "enabled": false,
+      "state": "not_connected",
+      "last_success_at": null,
+      "message": "尚未完成 Meta 授權與資料保留驗證，未自動蒐集。"
+    },
+    "instagram": {
+      "enabled": false,
+      "state": "manual_only",
+      "last_success_at": null,
+      "message": "僅支援手動收藏公開貼文連結。"
+    }
+  },
+  "checked_at": "2026-10-13T21:14:15.972903+00:00",
+  "timezone": "Asia/Taipei",
+  "schedule_local": [
+    "05:17",
+    "11:17",
+    "17:17",
+    "23:17"
+  ]
+}
