@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-14T19:27:22.585649+00:00",
+  "updated_at": "2026-10-14T23:57:29.949095+00:00",
   "topics": [
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -1425,6 +1425,312 @@
       "first_seen_at": "2026-10-14T19:27:22.585649+00:00",
       "last_seen_at": "2026-10-14T19:27:22.585649+00:00",
       "collected_at": "2026-10-14T19:27:22.585649+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_d0a632c4f253a95bde99cf2d",
+      "title": "道奇 對 釀酒人",
+      "keywords": [
+        "道奇 對 釀酒人"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T23:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "賽揚左投史奈爾道奇第3戰先發！期望把球隊的氣勢找回來",
+          "url": "https://tw.sports.yahoo.com/news/%E8%B3%BD%E6%8F%9A%E5%B7%A6%E6%8A%95%E5%8F%B2%E5%A5%88%E7%88%BE%E9%81%93%E5%A5%87%E7%AC%AC3%E6%88%B0%E5%85%88%E7%99%BC-%E6%9C%9F%E6%9C%9B%E6%8A%8A%E7%90%83%E9%9A%8A%E7%9A%84%E6%B0%A3%E5%8B%A2%E6%89%BE%E5%9B%9E%E4%BE%86-023748910.html",
+          "publisher": "Yahoo運動"
+        },
+        {
+          "title": "道奇0勝2敗陷絕境！史奈爾G3扛止敗重任　羅伯斯期待「不同版本」",
+          "url": "https://sports.ettoday.net/news/3254846",
+          "publisher": "ETtoday運動雲"
+        },
+        {
+          "title": "【MLB國聯冠軍賽】Skubal、山本由伸的最短先發，釀酒人如何用纏鬥與牛棚收下連勝？ _p.2 - MLB - 棒球",
+          "url": "https://www.sportsv.net/articles/129030?page=2",
+          "publisher": "運動視界Sports Vision"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_466b4655e7f673cf5d22fd77",
+      "title": "台積電法說",
+      "keywords": [
+        "台積電法說"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T23:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a1cad9aa3cc3ee46e50f9eca",
+      "title": "coreweave",
+      "keywords": [
+        "coreweave"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T23:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 'irrationally'",
+          "url": "https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html",
+          "publisher": "Yahoo Finance"
+        },
+        {
+          "title": "CoreWeave: Asymmetric Risk-Reward As $104 Billion Backlog Underpins Growth",
+          "url": "https://seekingalpha.com/article/4953970-coreweave-asymmetric-risk-reward-as-104bn-backlog-underpins-growth",
+          "publisher": "Seeking Alpha"
+        },
+        {
+          "title": "Amit Kukreja: Analyst compares CoreWeave strategy to margin loan loss scenario",
+          "url": "https://tradersunion.com/news/market-voices/show/3811003-coreweave-strategy-margin-comparison/",
+          "publisher": "Traders Union"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_7b5deb183f4697e285b5ffaf",
+      "title": "klasemen man city vs psg",
+      "keywords": [
+        "klasemen man city vs psg"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_92a4ac35b0ffb8bc01188d61",
+      "title": "臺北市",
+      "keywords": [
+        "臺北市"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "台北信義區公園新亮點！象山公園變身生態教室！",
+          "url": "https://news.pchome.com.tw/travel/sharelife/20261014/index-79193600086767216015.html",
+          "publisher": "PChome Online 新聞"
+        },
+        {
+          "title": "都市綠洲添新房！ 象山公園打造「授粉昆蟲友善旅館」營造生態共榮場域 | 台灣好新聞",
+          "url": "https://today.line.me/tw/v3/article/WBpn2Jy",
+          "publisher": "LINE TODAY"
+        },
+        {
+          "title": "歡迎入住!!北市公園設昆蟲友善旅館 增加昆蟲授粉棲息地 打造生態與環教空間",
+          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=FDE6D9A9BB47DA99",
+          "publisher": "臺北市政府全球資訊網"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_b0ce2c6d1f710e059421302d",
+      "title": "real madrid",
+      "keywords": [
+        "real madrid"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Volvió el Madrid inmortal",
+          "url": "https://as.com/futbol/champions/volvio-el-madrid-inmortal-f202610-n/",
+          "publisher": "Diario AS"
+        },
+        {
+          "title": "Alguien debe decirle la verdad a Valverde...",
+          "url": "https://www.marca.com/futbol/real-madrid/2026/10/14/mou-remontada-te-deja-pistas.html",
+          "publisher": "MARCA"
+        },
+        {
+          "title": "Courtois: «Los errores que hemos cometido nos han costado tres goles»",
+          "url": "https://holanews.com/courtois-los-errores-que-hemos-cometido-nos-han-costado-tres-goles/",
+          "publisher": "HolaNews"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_b03d18c10fb9f228bcab7261",
+      "title": "鏡週刊",
+      "keywords": [
+        "鏡週刊"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_812f2f1e06791634d75a67d7",
+      "title": "ipad mini",
+      "keywords": [
+        "ipad mini"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Touchscreen MacBook is set to launch on October 27",
+          "url": "https://www.macworld.com/article/3256624/touchscreen-macbook-launch-is-set-for-october-27.html",
+          "publisher": "Macworld"
+        },
+        {
+          "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october",
+          "publisher": "Bloomberg.com"
+        },
+        {
+          "title": "The latest MacBook Pro and Ultra rumors: What we know about Apple's OLED touchscreen Macs",
+          "url": "https://mashable.com/tech/apple-macbook-pro-ultra-oled-touchscreen-latest-rumors",
+          "publisher": "Mashable"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_2c2542f14e4c4fad2edd2d7b",
+      "title": "輝達",
+      "keywords": [
+        "輝達"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a73fca4588b6cd4e9371c078",
+      "title": "欣興電子股份有限公司",
+      "keywords": [
+        "欣興電子股份有限公司"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-14T22:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "欣興楊梅廠爆工安意外！員工維修機台「遭夾身亡」 勞檢處勒令部分停工",
+          "url": "https://tw.news.yahoo.com/%E6%AC%A3%E8%88%88%E6%A5%8A%E6%A2%85%E5%BB%A0%E7%88%86%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96-%E5%93%A1%E5%B7%A5%E7%B6%AD%E4%BF%AE%E6%A9%9F%E5%8F%B0-%E9%81%AD%E5%A4%BE%E8%BA%AB%E4%BA%A1-%E5%8B%9E%E6%AA%A2%E8%99%95%E5%8B%92%E4%BB%A4%E9%83%A8%E5%88%86%E5%81%9C%E5%B7%A5-212355493.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "IC載板大廠被勒令停工 公司回應了",
+          "url": "https://news.ebc.net.tw/news/business/575671",
+          "publisher": "東森新聞"
+        },
+        {
+          "title": "欣興電子楊梅一廠工安1死勞檢揪未確實停機安全門無連鎖- 社會新聞",
+          "url": "https://news.pchome.com.tw/society/tyenews/20261014/index-79194249860851343002.html",
+          "publisher": "PChome Online 新聞"
+        }
+      ],
+      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
+      "collected_at": "2026-10-14T23:57:29.949095+00:00",
       "snapshot_count": 1
     }
   ]
