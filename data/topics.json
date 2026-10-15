@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-15T19:13:14.185336+00:00",
+  "updated_at": "2026-10-15T23:42:09.847858+00:00",
   "topics": [
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -106,33 +106,33 @@
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-13T20:10:00+00:00",
+      "source_published_at": "2026-10-15T22:10:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
-      "search_volume_label": "1000+",
+      "search_volume_label": "2000+",
       "rank": null,
       "related_posts": [],
       "related_news": [
         {
-          "title": "煉油、電子材料雙引擎，台塑四寶Q4營運看升- 新聞",
-          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=9a8e9ec6-294b-4811-960b-73d0a7f16ab1",
+          "title": "Q3獲利狂增1092%！「銅箔基板廠」卻摜跌停大噴323億元 南亞科也殺破8%炸321億元",
+          "url": "https://tw.stock.yahoo.com/news/q3%E7%8D%B2%E5%88%A9%E7%8B%82%E5%A2%9E1092-%E9%8A%85%E7%AE%94%E5%9F%BA%E6%9D%BF%E5%BB%A0-%E5%8D%BB%E6%91%9C%E8%B7%8C%E5%81%9C%E5%A4%A7%E5%99%B4323%E5%84%84%E5%85%83-%E5%8D%97%E4%BA%9E%E7%A7%91%E4%B9%9F%E6%AE%BA%E7%A0%B48-%E7%82%B8321%E5%84%84%E5%85%83-114500255.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "《DJ在線》台塑四寶營運分歧電子材料、煉油撐獲利- 新聞",
+          "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a=42ca0406-e2a2-4691-825d-c09dd7d8a1c9",
           "publisher": "MoneyDJ"
         },
         {
-          "title": "台塑化快漲停、南亞喜收半根停板！台塑台化…台塑四寶逆勢漲、外資卻提款下車還會回頭？目標價一次看",
-          "url": "https://www.businesstoday.com.tw/article/category/183008/post/202610130008/",
-          "publisher": "今周刊"
-        },
-        {
-          "title": "南亞前三季賺逾1股本！ 法人按讚喊買 目標價395元",
-          "url": "https://tw.stock.yahoo.com/news/%E5%8D%97%E4%BA%9E%E5%89%8D%E4%B8%89%E5%AD%A3%E8%B3%BA%E9%80%BE1%E8%82%A1%E6%9C%AC-%E6%B3%95%E4%BA%BA%E6%8C%89%E8%AE%9A%E5%96%8A%E8%B2%B7-%E7%9B%AE%E6%A8%99%E5%83%B9395%E5%85%83-014900612.html",
-          "publisher": "Yahoo股市"
+          "title": "前三季賺逾一個股本 南亞靠AI材料、南亞科雙引擎 搶當台塑作帳指標",
+          "url": "https://money.udn.com/money/story/5607/9816891",
+          "publisher": "經濟日報"
         }
       ],
       "first_seen_at": "2026-10-13T21:14:15.972903+00:00",
-      "last_seen_at": "2026-10-13T21:45:04.878508+00:00",
-      "collected_at": "2026-10-13T21:45:04.878508+00:00",
-      "snapshot_count": 4
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 5
     },
     {
       "id": "gt_c0147e7b641ff1eb6b88a80b",
@@ -1684,17 +1684,17 @@
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:30:00+00:00",
+      "source_published_at": "2026-10-15T22:20:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
-      "search_volume_label": "200+",
+      "search_volume_label": "100+",
       "rank": null,
       "related_posts": [],
       "related_news": [],
       "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 2
     },
     {
       "id": "gt_a73fca4588b6cd4e9371c078",
@@ -2665,6 +2665,270 @@
       "first_seen_at": "2026-10-15T19:13:14.185336+00:00",
       "last_seen_at": "2026-10-15T19:13:14.185336+00:00",
       "collected_at": "2026-10-15T19:13:14.185336+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_343420d95cd1047c940f58d9",
+      "title": "tesla roadster",
+      "keywords": [
+        "tesla roadster"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T23:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Here’s Everything You Need to Know About the Tesla Roadster Reveal Tonight and How to Watch",
+          "url": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/everything-know-tesla-roadster-reveal-155305425.html",
+          "publisher": "Yahoo Autos"
+        },
+        {
+          "title": "Tesla Readies Flying Car Demo to Pump Up Sluggish Auto Business",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-15/tesla-readies-flying-car-demo-to-pump-up-sluggish-auto-business",
+          "publisher": "Bloomberg.com"
+        },
+        {
+          "title": "Elon Musk says Tesla’s Roadster demo could be a bang, quite literally",
+          "url": "https://www.teslarati.com/elon-musk-tesla-roadster-demo-tease/",
+          "publisher": "Teslarati"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_2cf91646cf97c4d2ecbbc2c5",
+      "title": "張仁瑋",
+      "keywords": [
+        "張仁瑋"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T22:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_1389789cfcd12ec0012aa9d0",
+      "title": "d-one第一大天地",
+      "keywords": [
+        "d-one第一大天地"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T22:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "全台最大百貨遭爆施工卡關？現況曝光 業者回應了",
+          "url": "https://news.ebc.net.tw/news/living/575918",
+          "publisher": "東森新聞"
+        },
+        {
+          "title": "規模超101逾4倍！全台最大百貨遭疑「施工停滯」　業者回應了",
+          "url": "https://www.setn.com/news/1923177",
+          "publisher": "三立新聞"
+        },
+        {
+          "title": "第一大D-ONE有多狂？台北101的4.8倍　逾5000車位剩新竹巨城能拚",
+          "url": "https://www.nownews.com/news/6883304",
+          "publisher": "NOWnews今日新聞"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_4d65b0a8430c692dda4309fe",
+      "title": "鍾 東 錦",
+      "keywords": [
+        "鍾 東 錦"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T21:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_e9b08aabf68daca294cf4dd6",
+      "title": "三立新聞網",
+      "keywords": [
+        "三立新聞網"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T21:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "5000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "【盤前】外資狂砍「這檔」4萬張 投信想英雄救美！27萬股東卻翻白眼",
+          "url": "https://tw.news.yahoo.com/%E7%9B%A4%E5%89%8D-%E5%A4%96%E8%B3%87%E7%8B%82%E7%A0%8D-%E9%80%99%E6%AA%94-4%E8%90%AC%E5%BC%B5-%E6%8A%95%E4%BF%A1%E6%83%B3%E8%8B%B1%E9%9B%84%E6%95%91%E7%BE%8E-213500396.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "外資狂賣3千億 空單暴增1萬口 台股短線恐測季線支撐",
+          "url": "https://ec.ltn.com.tw/article/paper/1774739",
+          "publisher": "自由財經"
+        },
+        {
+          "title": "外資砍台股3025億史上最慘！提款台積電3.4萬張　買賣前10大曝光",
+          "url": "https://finance.ettoday.net/news/3255301",
+          "publisher": "ETtoday財經雲"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_eb3de5e1e7dc8a01a64b0717",
+      "title": "nvda",
+      "keywords": [
+        "nvda"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T21:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Nvidia leads chip stocks lower as AI trade takes",
+          "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-amid-concerns-over-ai-financing-134237567.html",
+          "publisher": "Yahoo Finance"
+        },
+        {
+          "title": "NVDA 261016 252.50P (NVDA261016P252500) Stock Options Chain | Quotes & News",
+          "url": "https://www.moomoo.com/options/NVDA261016P252500-US",
+          "publisher": "Moomoo"
+        },
+        {
+          "title": "Nvidia and Other Chip Stocks Face Renewed Pressure as AI Fears Swell",
+          "url": "https://news.futunn.com/en/post/1001289575/nvidia-and-other-chip-stocks-face-renewed-pressure-as-ai",
+          "publisher": "富途牛牛"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_bc398a65d336b27694c598a3",
+      "title": "銀行",
+      "keywords": [
+        "銀行"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T21:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Bank of America fined $1.2 billion over money laundering violations",
+          "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+          "publisher": "CNBC"
+        },
+        {
+          "title": "Bank of America Q3 profit tumbles 17% as deals, trading revenue fall",
+          "url": "https://finance.yahoo.com/markets/article/bank-of-america-q3-profit-tumbles-17-as-deals-trading-revenue-fall-112438487.html",
+          "publisher": "Yahoo Finance"
+        },
+        {
+          "title": "BofA Sheds $22 Billion in Value as Lapses Come to Light",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-14/bofa-sheds-30-billion-in-value-as-years-of-lapses-come-to-light",
+          "publisher": "Bloomberg.com"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_840054e3994c312e1df40e9d",
+      "title": "張晨光",
+      "keywords": [
+        "張晨光"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T21:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "70歲張晨光低調返台！戴百萬名錶回億元豪宅 年飛5趟變寵孫狂人",
+          "url": "https://tw.news.yahoo.com/70%E6%AD%B2%E5%BC%B5%E6%99%A8%E5%85%89%E4%BD%8E%E8%AA%BF%E8%BF%94%E5%8F%B0-%E6%88%B4%E7%99%BE%E8%90%AC%E5%90%8D%E9%8C%B6%E5%9B%9E%E5%84%84%E5%85%83%E8%B1%AA%E5%AE%85-%E5%B9%B4%E9%A3%9B5%E8%B6%9F%E8%AE%8A%E5%AF%B5%E5%AD%AB%E7%8B%82%E4%BA%BA-042500931.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "張晨光返台被拍行頭破百萬回上億豪宅 昔直播遭罵「晚節不保」痛哭",
+          "url": "https://www.chinatimes.com/realtimenews/20261015003400-260404",
+          "publisher": "中時新聞網"
+        },
+        {
+          "title": "狗仔直擊｜張晨光貴氣返台！戴百萬錶奔上億豪宅 1年最多8部戲（壹蘋10點強打）",
+          "url": "https://news.nextapple.com/entertainment/20261015/15049C50309917E06515FAAE10020100",
+          "publisher": "壹蘋新聞網"
+        }
+      ],
+      "first_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "last_seen_at": "2026-10-15T23:42:09.847858+00:00",
+      "collected_at": "2026-10-15T23:42:09.847858+00:00",
       "snapshot_count": 1
     }
   ]
