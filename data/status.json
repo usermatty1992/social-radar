@@ -4,8 +4,8 @@
     "google_trends": {
       "enabled": true,
       "state": "ok",
-      "last_attempt_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_success_at": "2026-10-14T23:57:29.949095+00:00",
+      "last_attempt_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_success_at": "2026-10-15T08:24:00.507379+00:00",
       "count": 10,
       "message": "Google Trends 台灣 RSS；未提供活躍狀態與相關搜尋詞。"
     },
@@ -22,7 +22,7 @@
       "message": "僅支援手動收藏公開貼文連結。"
     }
   },
-  "checked_at": "2026-10-14T23:57:29.949095+00:00",
+  "checked_at": "2026-10-15T08:24:00.507379+00:00",
   "timezone": "Asia/Taipei",
   "schedule_local": [
     "05:17",

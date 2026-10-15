@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "collected_at": "2026-10-14T23:57:29.949095+00:00",
+  "collected_at": "2026-10-15T08:24:00.507379+00:00",
   "source": "google_trends",
   "topics": [
     {
-      "id": "gt_d0a632c4f253a95bde99cf2d",
-      "title": "道奇 對 釀酒人",
+      "id": "gt_2b50994b38b161405e08a8fa",
+      "title": "薔琵",
       "keywords": [
-        "道奇 對 釀酒人"
+        "薔琵"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T23:40:00+00:00",
+      "source_published_at": "2026-10-15T08:10:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "1000+",
@@ -20,293 +20,293 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "賽揚左投史奈爾道奇第3戰先發！期望把球隊的氣勢找回來",
-          "url": "https://tw.sports.yahoo.com/news/%E8%B3%BD%E6%8F%9A%E5%B7%A6%E6%8A%95%E5%8F%B2%E5%A5%88%E7%88%BE%E9%81%93%E5%A5%87%E7%AC%AC3%E6%88%B0%E5%85%88%E7%99%BC-%E6%9C%9F%E6%9C%9B%E6%8A%8A%E7%90%83%E9%9A%8A%E7%9A%84%E6%B0%A3%E5%8B%A2%E6%89%BE%E5%9B%9E%E4%BE%86-023748910.html",
-          "publisher": "Yahoo運動"
+          "title": "薔琵颱風生成！最新路徑曝「恐增為強颱」 天氣粉專：將會又大又強",
+          "url": "https://udn.com/news/story/7266/9816873",
+          "publisher": "UDN"
         },
         {
-          "title": "道奇0勝2敗陷絕境！史奈爾G3扛止敗重任　羅伯斯期待「不同版本」",
-          "url": "https://sports.ettoday.net/news/3254846",
-          "publisher": "ETtoday運動雲"
-        },
-        {
-          "title": "【MLB國聯冠軍賽】Skubal、山本由伸的最短先發，釀酒人如何用纏鬥與牛棚收下連勝？ _p.2 - MLB - 棒球",
-          "url": "https://www.sportsv.net/articles/129030?page=2",
-          "publisher": "運動視界Sports Vision"
-        }
-      ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_466b4655e7f673cf5d22fd77",
-      "title": "台積電法說",
-      "keywords": [
-        "台積電法說"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T23:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_a1cad9aa3cc3ee46e50f9eca",
-      "title": "coreweave",
-      "keywords": [
-        "coreweave"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T23:20:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "'Yikes': CoreWeave stock tanks on bond yield woes, CEO blames market acting 'irrationally'",
-          "url": "https://finance.yahoo.com/technology/article/yikes-coreweave-stock-tanks-on-bond-yield-woes-ceo-blames-market-acting-irrationally-203838274.html",
-          "publisher": "Yahoo Finance"
-        },
-        {
-          "title": "CoreWeave: Asymmetric Risk-Reward As $104 Billion Backlog Underpins Growth",
-          "url": "https://seekingalpha.com/article/4953970-coreweave-asymmetric-risk-reward-as-104bn-backlog-underpins-growth",
-          "publisher": "Seeking Alpha"
-        },
-        {
-          "title": "Amit Kukreja: Analyst compares CoreWeave strategy to margin loan loss scenario",
-          "url": "https://tradersunion.com/news/market-voices/show/3811003-coreweave-strategy-margin-comparison/",
-          "publisher": "Traders Union"
-        }
-      ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_7b5deb183f4697e285b5ffaf",
-      "title": "klasemen man city vs psg",
-      "keywords": [
-        "klasemen man city vs psg"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:50:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_92a4ac35b0ffb8bc01188d61",
-      "title": "臺北市",
-      "keywords": [
-        "臺北市"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "台北信義區公園新亮點！象山公園變身生態教室！",
-          "url": "https://news.pchome.com.tw/travel/sharelife/20261014/index-79193600086767216015.html",
-          "publisher": "PChome Online 新聞"
-        },
-        {
-          "title": "都市綠洲添新房！ 象山公園打造「授粉昆蟲友善旅館」營造生態共榮場域 | 台灣好新聞",
-          "url": "https://today.line.me/tw/v3/article/WBpn2Jy",
-          "publisher": "LINE TODAY"
-        },
-        {
-          "title": "歡迎入住!!北市公園設昆蟲友善旅館 增加昆蟲授粉棲息地 打造生態與環教空間",
-          "url": "https://www.gov.taipei/News_Content.aspx?n=F0DDAF49B89E9413&sms=72544237BBE4C5F6&s=FDE6D9A9BB47DA99",
-          "publisher": "臺北市政府全球資訊網"
-        }
-      ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_b0ce2c6d1f710e059421302d",
-      "title": "real madrid",
-      "keywords": [
-        "real madrid"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "Volvió el Madrid inmortal",
-          "url": "https://as.com/futbol/champions/volvio-el-madrid-inmortal-f202610-n/",
-          "publisher": "Diario AS"
-        },
-        {
-          "title": "Alguien debe decirle la verdad a Valverde...",
-          "url": "https://www.marca.com/futbol/real-madrid/2026/10/14/mou-remontada-te-deja-pistas.html",
-          "publisher": "MARCA"
-        },
-        {
-          "title": "Courtois: «Los errores que hemos cometido nos han costado tres goles»",
-          "url": "https://holanews.com/courtois-los-errores-que-hemos-cometido-nos-han-costado-tres-goles/",
-          "publisher": "HolaNews"
-        }
-      ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_b03d18c10fb9f228bcab7261",
-      "title": "鏡週刊",
-      "keywords": [
-        "鏡週刊"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_812f2f1e06791634d75a67d7",
-      "title": "ipad mini",
-      "keywords": [
-        "ipad mini"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "Touchscreen MacBook is set to launch on October 27",
-          "url": "https://www.macworld.com/article/3256624/touchscreen-macbook-launch-is-set-for-october-27.html",
-          "publisher": "Macworld"
-        },
-        {
-          "title": "Apple Set to Debut Touch-Screen MacBook and New iPad Mini in Late October",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-08/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october",
-          "publisher": "Bloomberg.com"
-        },
-        {
-          "title": "The latest MacBook Pro and Ultra rumors: What we know about Apple's OLED touchscreen Macs",
-          "url": "https://mashable.com/tech/apple-macbook-pro-ultra-oled-touchscreen-latest-rumors",
-          "publisher": "Mashable"
-        }
-      ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_2c2542f14e4c4fad2edd2d7b",
-      "title": "輝達",
-      "keywords": [
-        "輝達"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:30:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_a73fca4588b6cd4e9371c078",
-      "title": "欣興電子股份有限公司",
-      "keywords": [
-        "欣興電子股份有限公司"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-14T22:20:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "1000+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "欣興楊梅廠爆工安意外！員工維修機台「遭夾身亡」 勞檢處勒令部分停工",
-          "url": "https://tw.news.yahoo.com/%E6%AC%A3%E8%88%88%E6%A5%8A%E6%A2%85%E5%BB%A0%E7%88%86%E5%B7%A5%E5%AE%89%E6%84%8F%E5%A4%96-%E5%93%A1%E5%B7%A5%E7%B6%AD%E4%BF%AE%E6%A9%9F%E5%8F%B0-%E9%81%AD%E5%A4%BE%E8%BA%AB%E4%BA%A1-%E5%8B%9E%E6%AA%A2%E8%99%95%E5%8B%92%E4%BB%A4%E9%83%A8%E5%88%86%E5%81%9C%E5%B7%A5-212355493.html",
+          "title": "輕颱薔琵生成了！粉專曝「2路徑」：這天最接近台灣",
+          "url": "https://tw.news.yahoo.com/%E8%BC%95%E9%A2%B1%E8%96%94%E7%90%B5%E7%94%9F%E6%88%90%E4%BA%86-%E7%B2%89%E5%B0%88%E6%9B%9D-2%E8%B7%AF%E5%BE%91-%E9%80%99%E5%A4%A9%E6%9C%80%E6%8E%A5%E8%BF%91%E5%8F%B0%E7%81%A3-075400920.html",
           "publisher": "Yahoo新聞"
         },
         {
-          "title": "IC載板大廠被勒令停工 公司回應了",
-          "url": "https://news.ebc.net.tw/news/business/575671",
-          "publisher": "東森新聞"
-        },
-        {
-          "title": "欣興電子楊梅一廠工安1死勞檢揪未確實停機安全門無連鎖- 社會新聞",
-          "url": "https://news.pchome.com.tw/society/tyenews/20261014/index-79194249860851343002.html",
-          "publisher": "PChome Online 新聞"
+          "title": "日本氣象廳升格薔琵颱風！AI預報西修趨勢 | NOWNEWS今日新聞",
+          "url": "https://today.line.me/tw/v3/article/JPyzgVx",
+          "publisher": "LINE TODAY"
         }
       ],
-      "first_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "last_seen_at": "2026-10-14T23:57:29.949095+00:00",
-      "collected_at": "2026-10-14T23:57:29.949095+00:00",
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_4455175f44faef048196ad43",
+      "title": "哲 哲",
+      "keywords": [
+        "哲 哲"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T08:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "台股失守4萬8千點！「哲哲」郭哲榮揭暴漲暴跌內幕 台積電法說成關鍵",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%A4%B1%E5%AE%884%E8%90%AC8%E5%8D%83%E9%BB%9E-%E5%93%B2%E5%93%B2-%E9%83%AD%E5%93%B2%E6%A6%AE%E6%8F%AD%E6%9A%B4%E6%BC%B2%E6%9A%B4%E8%B7%8C%E5%85%A7%E5%B9%95-%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%88%90%E9%97%9C%E9%8D%B5-022000477.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "盤勢分析》避免追價 留意月線支撐強度",
+          "url": "https://ec.ltn.com.tw/article/paper/1774560",
+          "publisher": "自由財經"
+        },
+        {
+          "title": "10／15盤前｜台股變風向！傳產上、電子下這2檔權值股漲相佳- 證券",
+          "url": "https://www.ctee.com.tw/news/20261015700456-430201",
+          "publisher": "工商時報"
+        }
+      ],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_45e14c0f9fb6b08b55e0732b",
+      "title": "00918",
+      "keywords": [
+        "00918"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_8c3648ba7b5a88e2b4739652",
+      "title": "北 檢 檢察 官",
+      "keywords": [
+        "北 檢 檢察 官"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "檢察官尿檢陽性報告半年才出爐曾指揮富邦喋血案、台版地面師案外案| 法律前線| 社會",
+          "url": "https://udn.com/news/story/7321/9816498",
+          "publisher": "UDN"
+        },
+        {
+          "title": "「天下第一檢」46歲檢察官涉毒遭逮畫面曝光 豬隊友1行為露餡！警察對上眼抓人還原",
+          "url": "https://tw.news.yahoo.com/%E5%A4%A9%E4%B8%8B%E7%AC%AC-%E6%AA%A2-46%E6%AD%B2%E6%AA%A2%E5%AF%9F%E5%AE%98%E6%B6%89%E6%AF%92%E9%81%AD%E9%80%AE%E7%95%AB%E9%9D%A2%E6%9B%9D%E5%85%89-%E8%B1%AC%E9%9A%8A%E5%8F%8B1%E8%A1%8C%E7%82%BA%E9%9C%B2%E9%A4%A1-%E8%AD%A6%E5%AF%9F%E5%B0%8D%E4%B8%8A%E7%9C%BC%E6%8A%93%E4%BA%BA%E9%82%84%E5%8E%9F-044846753.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "寒門苦讀翻身！北檢「拚命三郎」檢察官吸毒請辭 多名同事聞訊爆哭",
+          "url": "https://news.ltn.com.tw/news/society/breakingnews/5606940",
+          "publisher": "自由時報"
+        }
+      ],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_07b7d8ff8dca4be70e1415cd",
+      "title": "緯 創",
+      "keywords": [
+        "緯 創"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_561cfb9f5fb2505dc06ba66e",
+      "title": "投信買賣超",
+      "keywords": [
+        "投信買賣超"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_faf6eb0a5246c3e8fcde4f0e",
+      "title": "中國信託金融控股",
+      "keywords": [
+        "中國信託金融控股"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "中信金FVOCI利益爆發 今股價再創新高",
+          "url": "https://stock.ltn.com.tw/article/kpxp93zzqbrw",
+          "publisher": "自由時報"
+        },
+        {
+          "title": "中信金獲利出爐！前9月賺632億、EPS 3.18元 | NOWNEWS今日新聞",
+          "url": "https://today.line.me/tw/v3/article/pep28kl",
+          "publisher": "LINE TODAY"
+        },
+        {
+          "title": "花旗首選國泰、中信金",
+          "url": "https://money.udn.com/money/story/5607/9814985",
+          "publisher": "經濟日報"
+        }
+      ],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_268e4c28bc3b28f1b1b4c38a",
+      "title": "2330 法說會",
+      "keywords": [
+        "2330 法說會"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "【台積電法說會】要跟馬斯克合作了？魏哲家證實「評估德州」但要自己營運 6大重點一次看",
+          "url": "https://tw.stock.yahoo.com/news/%E3%80%90%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%B3%95%E8%AA%AA%E6%9C%83%E3%80%91%E8%A6%81%E8%B7%9F%E9%A6%AC%E6%96%AF%E5%85%8B%E5%90%88%E4%BD%9C%E4%BA%86%EF%BC%9F%E9%AD%8F%E5%93%B2%E5%AE%B6%E8%AD%89%E5%AF%A6%E3%80%8C%E8%A9%95%E4%BC%B0%E5%BE%B7%E5%B7%9E%E3%80%8D%E4%BD%86%E8%A6%81%E8%87%AA%E5%B7%B1%E7%87%9F%E9%81%8B-6%E5%A4%A7%E9%87%8D%E9%BB%9E%E4%B8%80%E6%AC%A1%E7%9C%8B-073822465.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "魏哲家證實台積電團隊赴德州評估擴產與Terafab合作討論中| 產經",
+          "url": "https://www.cna.com.tw/news/afe/202610150172.aspx",
+          "publisher": "中央社 CNA"
+        },
+        {
+          "title": "魏哲家：AI 需求極其強勁，台積電營收年複合成長率有望超越 50% 高標",
+          "url": "https://finance.technews.tw/2026/10/15/tsmcs-revenue-is-expected-to-achieve-a-compound-annual-growth-rate-exceeding-50-a-high-target/",
+          "publisher": "TechNews 科技新報"
+        }
+      ],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_7667fdf3ffe5ecf10bee5ad1",
+      "title": "軍公教",
+      "keywords": [
+        "軍公教"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_39198f010fefa45c98861e78",
+      "title": "退休",
+      "keywords": [
+        "退休"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-15T07:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "2000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "總額達500萬！1.8萬名官兵退休俸差額被少發 11月1日撥補入帳",
+          "url": "https://tw.news.yahoo.com/%E7%B8%BD%E9%A1%8D%E9%81%94500%E8%90%AC-1-8%E8%90%AC%E5%90%8D%E5%AE%98%E5%85%B5%E9%80%80%E4%BC%91%E4%BF%B8%E5%B7%AE%E9%A1%8D%E8%A2%AB%E5%B0%91%E7%99%BC-11%E6%9C%881%E6%97%A5%E6%92%A5%E8%A3%9C%E5%85%A5%E5%B8%B3-073808633.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "國防部：退休俸2次調整產生扣減差額 11/1完成更正及補發 | 青年日報",
+          "url": "https://today.line.me/tw/v3/article/rmpz1PP",
+          "publisher": "LINE TODAY"
+        },
+        {
+          "title": "1萬8000多名官兵退休給與差額被少發 國防部：11/1撥補入帳",
+          "url": "https://money.udn.com/money/story/7307/9816256?from=edn_newest_index",
+          "publisher": "經濟日報"
+        }
+      ],
+      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "last_seen_at": "2026-10-15T08:24:00.507379+00:00",
+      "collected_at": "2026-10-15T08:24:00.507379+00:00",
       "snapshot_count": 1
     }
   ]
