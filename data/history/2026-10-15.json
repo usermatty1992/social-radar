@@ -950,6 +950,317 @@
           "snapshot_count": 1
         }
       ]
+    },
+    {
+      "collected_at": "2026-10-15T14:13:19.642739+00:00",
+      "topics": [
+        {
+          "id": "gt_5adadc3af8c1c90139a6af13",
+          "title": "台積電adr",
+          "keywords": [
+            "台積電adr"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T14:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "2000+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_a4cae6723e6e056dca59d894",
+          "title": "台指期",
+          "keywords": [
+            "台指期"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T14:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "10000+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "美國9月 PPI 增幅遠超預期 寫四年來最高 公債殖利率不升反降",
+              "url": "https://money.udn.com/money/story/5599/9817654",
+              "publisher": "經濟日報"
+            },
+            {
+              "title": "Fed難鬆口氣！美國9月PPI超預期年升6.3% 通膨警報再響",
+              "url": "https://news.cnyes.com/news/id/6631404",
+              "publisher": "鉅亨網"
+            },
+            {
+              "title": "美國通膨數據超出預期！美股收黑「那指、費半」齊跌超過500點記憶體股下殺、台指期夜盤失守48K",
+              "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%9C%8B%E9%80%9A%E8%86%A8%E6%95%B8%E6%93%9A%E8%B6%85%E5%87%BA%E9%A0%90%E6%9C%9F-%E7%BE%8E%E8%82%A1%E6%94%B6%E9%BB%91-%E9%82%A3%E6%8C%87-%E8%B2%BB%E5%8D%8A-%E9%BD%8A%E8%B7%8C%E8%B6%85%E9%81%8E500%E9%BB%9E-231500976.html",
+              "publisher": "Yahoo股市"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_ebee8c4a70a96bdc109e207f",
+          "title": "特斯拉roadster",
+          "keywords": [
+            "特斯拉roadster"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T14:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "200+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "新款Roadster即将亮相“特斯拉能飞”究竟是噱头还是现实？",
+              "url": "https://emwap.eastmoney.com/a/202610153897160354.html",
+              "publisher": "东方财富"
+            },
+            {
+              "title": "特斯拉(TSLA.US)Roadster发布会定档周四 马斯克表态“时机就是一切”再添悬念",
+              "url": "https://cj.sina.cn/articles/view/5953190046/162d6789e06703ucv0?froms=ggmp",
+              "publisher": "finance.sina.com.cn"
+            },
+            {
+              "title": "飞行演示难破特斯拉(TSLA.US)市值魔咒",
+              "url": "https://www.moomoo.com/hans/news/post/1001091703/flight-demonstration-unlikely-to-break-tesla-s-tslaus-market-cap",
+              "publisher": "Moomoo"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_e78490f673e944e09074a04d",
+          "title": "盜版",
+          "keywords": [
+            "盜版"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T14:00:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "「17萬訂閱」3C網紅推銷非法機上盒 爽撈7年侵權市值53億元",
+              "url": "https://tw.news.yahoo.com/17%E8%90%AC%E8%A8%82%E9%96%B1-3c%E7%B6%B2%E7%B4%85%E6%8E%A8%E9%8A%B7%E9%9D%9E%E6%B3%95%E6%A9%9F%E4%B8%8A%E7%9B%92-%E7%88%BD%E6%92%887%E5%B9%B4%E4%BE%B5%E6%AC%8A%E5%B8%82%E5%80%BC53%E5%84%84%E5%85%83-075500447.html",
+              "publisher": "Yahoo新聞"
+            },
+            {
+              "title": "拍片推銷非法機上盒侵權市值53億刑事局逮6人送辦| 社會",
+              "url": "https://newtalk.tw/news/view/2026-10-15/1065761",
+              "publisher": "Newtalk新聞"
+            },
+            {
+              "title": "開箱盜版遊戲檔被抓！17萬YTR又爆推銷非法機上盒7年 侵權53億慘了",
+              "url": "https://www.chinatimes.com/realtimenews/20261015002879-260402",
+              "publisher": "中時新聞網"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_b4eb4e4ac5a50576667d9f5e",
+          "title": "sk海力士",
+          "keywords": [
+            "sk海力士"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:50:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "10000+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "亞股也崩！日股急殺3200點 韓股重挫8%又觸發側車機制 日韓ETF重挫逾9%",
+              "url": "https://tw.stock.yahoo.com/news/%E4%BA%9E%E8%82%A1%E4%B9%9F%E5%B4%A9%EF%BC%81%E6%97%A5%E8%82%A1%E6%80%A5%E6%AE%BA3200%E9%BB%9E-%E9%9F%93%E8%82%A1%E9%87%8D%E6%8C%AB8%E5%8F%88%E8%A7%B8%E7%99%BC%E5%81%B4%E8%BB%8A%E6%A9%9F%E5%88%B6-%E6%97%A5%E9%9F%93etf%E9%87%8D%E6%8C%AB%E9%80%BE9-033006624.html",
+              "publisher": "Yahoo股市"
+            },
+            {
+              "title": "韓股從全球最強摔成重災區！KOSPI高點跌逾4成 3大警訊浮現- 國際",
+              "url": "https://www.ctee.com.tw/news/20261015700847-430702",
+              "publisher": "工商時報"
+            },
+            {
+              "title": "韓股重挫 KOSPI、KOSDAQ雙雙觸發熔斷",
+              "url": "https://www.rti.org.tw/news?uid=3&pid=237772",
+              "publisher": "Rti 中央廣播電臺"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_ee5cd75c8890a2a8f7261e06",
+          "title": "sox",
+          "keywords": [
+            "sox"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:50:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "Caleb Durbin an AL Gold Glove Award finalist, along with past Red Sox winners Ceddanne Rafaela and Wilyer Abreu",
+              "url": "https://www.bostonglobe.com/2026/10/14/sports/red-sox-gold-glove-finalists/",
+              "publisher": "The Boston Globe"
+            },
+            {
+              "title": "Red Sox's Three Gold Glove Finalists Create an Unexpected Offseason Dilemma",
+              "url": "https://nesn.com/boston-red-sox/news/red-soxs-three-gold-glove-finalists-create-unexpected-offseason-dilemma/c9f0c28fcf7cbea1b8dae47b",
+              "publisher": "NESN"
+            },
+            {
+              "title": "Red Sox could match rare feat with three Gold Glove winners",
+              "url": "https://www.masslive.com/redsox/2026/10/three-red-sox-named-as-al-gold-glove-finalists.html",
+              "publisher": "MassLive.com"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_2564df23b2f667c3b181c3db",
+          "title": "夜盤台指期",
+          "keywords": [
+            "夜盤台指期"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:50:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "200+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_a947ca0789f3105ed3c7d19d",
+          "title": "印尼",
+          "keywords": [
+            "印尼"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:50:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "100+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [
+            {
+              "title": "新加坡爆逾十年最嚴重霾害！空氣清淨機銷量衝上9倍、N95口罩搶到缺貨",
+              "url": "https://news.cnyes.com/news/id/6631114",
+              "publisher": "鉅亨網"
+            },
+            {
+              "title": "印尼霧霾影響鄰國 新加坡西部空汙達最高級、東帝汶學校關閉3天",
+              "url": "https://www.cna.com.tw/news/aopl/202610140269.aspx",
+              "publisher": "中央社 CNA"
+            },
+            {
+              "title": "天空一片詭異橘黃！印尼野火濃煙籠罩東南亞 吉隆坡空污登全球首位",
+              "url": "https://tw.news.yahoo.com/%E5%A4%A9%E7%A9%BA-%E7%89%87%E8%A9%AD%E7%95%B0%E6%A9%98%E9%BB%83-%E5%8D%B0%E5%B0%BC%E9%87%8E%E7%81%AB%E6%BF%83%E7%85%99%E7%B1%A0%E7%BD%A9%E6%9D%B1%E5%8D%97%E4%BA%9E-%E5%90%89%E9%9A%86%E5%9D%A1%E7%A9%BA%E6%B1%A1%E7%99%BB%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D-094500525.html",
+              "publisher": "Yahoo新聞"
+            }
+          ],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_11a12605a0dfc9c75845bb6c",
+          "title": "a20 lite 成員",
+          "keywords": [
+            "a20 lite 成員"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:50:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "200+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        },
+        {
+          "id": "gt_6bcf24b3cdaf881ba535fee5",
+          "title": "成功 嶺",
+          "keywords": [
+            "成功 嶺"
+          ],
+          "category": "其他",
+          "source": "google_trends",
+          "source_url": "https://trends.google.com/trending/rss?geo=TW",
+          "source_published_at": "2026-10-15T13:20:00+00:00",
+          "trend_started_at": null,
+          "status": "unknown",
+          "search_volume_label": "200+",
+          "rank": null,
+          "related_posts": [],
+          "related_news": [],
+          "first_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "last_seen_at": "2026-10-15T14:13:19.642739+00:00",
+          "collected_at": "2026-10-15T14:13:19.642739+00:00",
+          "snapshot_count": 1
+        }
+      ]
     }
   ]
 }
