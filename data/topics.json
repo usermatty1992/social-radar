@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T18:50:14.449673+00:00",
+  "updated_at": "2026-10-16T23:39:08.520801+00:00",
   "topics": [
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -3901,6 +3901,339 @@
       "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
       "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
       "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_b4103bca91de37a69fab0cef",
+      "title": "nvidia 股價",
+      "keywords": [
+        "nvidia 股價"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T22:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "京元電 押逾100天",
+          "url": "https://money.udn.com/money/story/5739/9819880",
+          "publisher": "經濟日報"
+        },
+        {
+          "title": "封測大廠抱緊輝達大腿！收預付款鎖產能、明年EPS上看15元 金控投顧喊目標價350元：最壞情況已過",
+          "url": "https://wantrich.chinatimes.com/news/20261017900007-420101",
+          "publisher": "旺得富理財網"
+        },
+        {
+          "title": "輝達提前付款也沒用！　京元電盤中跌逾3%失守300元",
+          "url": "https://finance.ettoday.net/news/3254359",
+          "publisher": "ETtoday財經雲"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_84e557438c5ca9ab04ecab04",
+      "title": "台灣高鐵",
+      "keywords": [
+        "台灣高鐵"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T22:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "大型行李不再沒處放 高鐵雙層行李架上線 年底前列車全面改裝",
+          "url": "https://udn.com/news/story/7266/9818937",
+          "publisher": "UDN"
+        },
+        {
+          "title": "高鐵宣布「1重要新措施」！10/15全台正式上路，乘客讚：多年問題終於解決、 根本德政",
+          "url": "https://www.storm.mg/lifestyle/11173034",
+          "publisher": "風傳媒"
+        },
+        {
+          "title": "高鐵700T列車雙層行李架上線 今年底34組列車完全改裝",
+          "url": "https://www.epochtimes.com/b5/26/10/16/n14871223.htm",
+          "publisher": "大紀元"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_b42d65b4b6a8e3ce1c8cd11e",
+      "title": "道瓊工業指數",
+      "keywords": [
+        "道瓊工業指數"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T22:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "市場對AI疑慮未減！美股開盤四大指數漲跌互見 特斯拉強勢撐盤",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B8%82%E5%A0%B4%E5%B0%8Dai%E7%96%91%E6%85%AE%E6%9C%AA%E6%B8%9B-%E7%BE%8E%E8%82%A1%E9%96%8B%E7%9B%A4%E5%9B%9B%E5%A4%A7%E6%8C%87%E6%95%B8%E6%BC%B2%E8%B7%8C%E4%BA%92%E8%A6%8B-%E7%89%B9%E6%96%AF%E6%8B%89%E5%BC%B7%E5%8B%A2%E6%92%90%E7%9B%A4-143941884.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "馬斯克放炮美記憶體續跌台積電說1句與輝達同挫- 國際",
+          "url": "https://wantrich.chinatimes.com/news/20261016900088-420201",
+          "publisher": "旺得富理財網"
+        },
+        {
+          "title": "〈美股盤後〉黃仁勳力挺CoreWeave 道瓊勁揚556點 台積電ADR跌近2%",
+          "url": "https://news.cnyes.com/news/id/6631442",
+          "publisher": "鉅亨網"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_cd609ff4e77a687a8844cf88",
+      "title": "vix恐慌指數",
+      "keywords": [
+        "vix恐慌指數"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T22:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "AI股殺聲隆隆！恐慌指數VIX衝破22 大額買權押注11月波動延續",
+          "url": "https://news.cnyes.com/news/id/6632545",
+          "publisher": "鉅亨網"
+        },
+        {
+          "title": "4. VIX 買入跨式策略",
+          "url": "https://www.moomoo.com/hant/community/feed/4-vix-long-straddle-117442141814789",
+          "publisher": "Moomoo"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_6a1d14f5bee78006022bf7c9",
+      "title": "美光股價",
+      "keywords": [
+        "美光股價"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T21:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "美光股價自高點拉回23% 過去歷史經驗說了什麼？",
+          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E%E5%85%89%E8%82%A1%E5%83%B9%E8%87%AA%E9%AB%98%E9%BB%9E%E6%8B%89%E5%9B%9E23-%E9%81%8E%E5%8E%BB%E6%AD%B7%E5%8F%B2%E7%B6%93%E9%A9%97%E8%AA%AA%E4%BA%86%E4%BB%80%E9%BA%BC-091002012.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "【03:04 即時新聞】Micron Technology(MU) 重挫逾5%／AI 記憶體族群遭遇系統性賣壓",
+          "url": "https://cmnews.com.tw/article/cmoneyairesearcher-5c7bfed8-c994-11f1-b9c4-ef55f03423ef",
+          "publisher": "CMoney投資網誌"
+        },
+        {
+          "title": "$CoreWeave (CRWV.US)$持有並增持我的看漲期權合約，可能只是因爲LTF的降溫而出現回調；我堅信並期待先...",
+          "url": "https://www.moomoo.com/hant/community/feed/coreweave-crwv-us-117446754304405",
+          "publisher": "Moomoo"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_d7835e3eaa5e25208a57ef74",
+      "title": "阮慕骅",
+      "keywords": [
+        "阮慕骅"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T21:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "台股崩跌1655點摔破47K！杜金龍逆勢加碼「這2檔」 下一波進場時間曝光",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%B4%A9%E8%B7%8C1655%E9%BB%9E%E6%91%94%E7%A0%B447k-%E6%9D%9C%E9%87%91%E9%BE%8D%E9%80%86%E5%8B%A2%E5%8A%A0%E7%A2%BC-%E9%80%992%E6%AA%94-%E4%B8%8B-%E6%B3%A2%E9%80%B2%E5%A0%B4%E6%99%82%E9%96%93%E6%9B%9D%E5%85%89-035500727.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "今天股市為何大跌？兇手原來是這兩個 落底指標看外資",
+          "url": "https://udn.com/news/story/7251/9817078",
+          "publisher": "UDN"
+        },
+        {
+          "title": "台積電ADR跌 投顧：外資賣超擴大不利多方",
+          "url": "https://www.rti.org.tw/news?uid=3&pid=237980",
+          "publisher": "Rti 中央廣播電臺"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a606516cf79ed11631e7a4f3",
+      "title": "公職人員",
+      "keywords": [
+        "公職人員"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T21:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_1611c3ceb9c051b4fea34e85",
+      "title": "布蘭特原油",
+      "keywords": [
+        "布蘭特原油"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T21:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "能源供應警報連響！美油突破100美元、布蘭特逼近110美元",
+          "url": "https://news.cnyes.com/news/id/6632483",
+          "publisher": "鉅亨網"
+        },
+        {
+          "title": "供應緩解前景黯淡　油價上漲",
+          "url": "https://money.udn.com/money/story/5599/9820318",
+          "publisher": "經濟日報"
+        },
+        {
+          "title": "《油價》原油庫存大減 NYMEX原油上漲3% - 頭條新聞 - 新聞",
+          "url": "https://m.moneydj.com/f1a.aspx?a=13aa5a9b-e155-44bd-afbb-db108a8d2ba3&c=MB010000",
+          "publisher": "MoneyDJ"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_e99b87db3adc238225357e31",
+      "title": "swag",
+      "keywords": [
+        "swag"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T21:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "With retro swag and a finger wag, 'Devil' Rays throw it back",
+          "url": "https://www.mlb.com/news/junior-caminero-wags-finger-after-leaping-catch-in-rays-game-2-alcs-win",
+          "publisher": "MLB.com"
+        },
+        {
+          "title": "Tampa Bay Rays Turn to Retro Uniforms After ALCS Loss",
+          "url": "https://www.chosun.com/english/sports-en/2026/10/14/T6NH7Z2WBRHEDEE22IW5BEJYLQ/",
+          "publisher": "조선일보"
+        },
+        {
+          "title": "Rays Rocking Devil Rays Jerseys for ALCS Game 2",
+          "url": "https://roundtable.io/sports/mlb/rays/community/game-day/rays-rocking-devil-rays-jerseys-for-alcs-game-2",
+          "publisher": "roundtable.io"
+        }
+      ],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_7e199c417e2f78dbe9f4d2b6",
+      "title": "美股 大 跌",
+      "keywords": [
+        "美股 大 跌"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T20:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "5000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "last_seen_at": "2026-10-16T23:39:08.520801+00:00",
+      "collected_at": "2026-10-16T23:39:08.520801+00:00",
       "snapshot_count": 1
     }
   ]
