@@ -1,76 +1,245 @@
 {
   "schema_version": 1,
-  "collected_at": "2026-10-16T14:00:19.316258+00:00",
+  "collected_at": "2026-10-16T18:50:14.449673+00:00",
   "source": "google_trends",
   "topics": [
     {
-      "id": "gt_ad181a425c65ce89327280d8",
-      "title": "富 喬",
+      "id": "gt_07f0a18510e99f0f8d27e898",
+      "title": "碰撞",
       "keywords": [
-        "富 喬"
+        "碰撞"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:50:00+00:00",
+      "source_published_at": "2026-10-16T18:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "屏東救護車送九旬婦就醫 擦撞貨車又撞上變電箱",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-16/2497713.html",
+          "publisher": "壹電視"
+        },
+        {
+          "title": "鳴笛載9旬婦就醫…路口猛撞左轉貨車！救護車車頭爛毀慘況曝",
+          "url": "https://www.ettoday.net/news/20261016/3255873.htm",
+          "publisher": "ETtoday新聞雲"
+        },
+        {
+          "title": "屏東救護車鳴笛載95歲阿嬤就醫！半路殺出小貨車 車頭撞爛釀3傷",
+          "url": "https://www.knews.com.tw/news/BDED462CD80045896F267DC006B245AA",
+          "publisher": "知新聞"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_fb7562855844c81515b969eb",
+      "title": "vix",
+      "keywords": [
+        "vix"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "VIX Falls 2.4 Percent as Markets Absorb Hot Producer Inflation",
+          "url": "https://suaragarut.id/en/vix-falls-producer-inflation-market-outlook",
+          "publisher": "SuaraGarut.ID"
+        },
+        {
+          "title": "VIX faces hot PPI after 2.4 percent drop ahead of the open",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-faces-hot-ppi-after-2-4-percent-drop-ahead-of-the-open/70339686",
+          "publisher": "ad-hoc-news.de"
+        },
+        {
+          "title": "VIX rises 10.5 percent ahead of the open after hot CPI",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-rises-10-5-percent-ahead-of-the-open-after-hot-cpi/70329442",
+          "publisher": "ad-hoc-news.de"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a3cce39c07351ac7f44dcc9e",
+      "title": "原油",
+      "keywords": [
+        "原油"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "油價飆破107美元 沙烏地與荷莫茲海峽遇襲恐推升全球物價",
+          "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E7%A0%B4107%E7%BE%8E%E5%85%83-%E6%B2%99%E7%83%8F%E5%9C%B0%E8%88%87%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%87%E8%A5%B2%E6%81%90%E6%8E%A8%E5%8D%87%E5%85%A8%E7%90%83%E7%89%A9%E5%83%B9-055517101.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "《油價》原油庫存大減 NYMEX原油上漲3% - 頭條新聞 - 新聞",
+          "url": "https://m.moneydj.com/f1a.aspx?a=13aa5a9b-e155-44bd-afbb-db108a8d2ba3&c=MB010000",
+          "publisher": "MoneyDJ"
+        },
+        {
+          "title": "能源供應警報連響！美油突破100美元、布蘭特逼近110美元",
+          "url": "https://news.cnyes.com/news/id/6632483",
+          "publisher": "鉅亨網"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_0be066dd5662c109f1a6302d",
+      "title": "股災",
+      "keywords": [
+        "股災"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:00:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "1000+",
       "rank": null,
       "related_posts": [],
-      "related_news": [
-        {
-          "title": "玻纖布廠富喬攻漲停　提前開獎9月獲利年增341.33%",
-          "url": "https://finance.ettoday.net/news/3255913",
-          "publisher": "ETtoday財經雲"
-        },
-        {
-          "title": "高階玻纖布獲利超補！富喬9月獲利年增341.33％",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5608556",
-          "publisher": "自由財經"
-        },
-        {
-          "title": "富喬獲利／9月3.31億元 年增逾3倍、每股賺0.56元 毛利率逼近52%",
-          "url": "https://udn.com/news/story/7252/9819485",
-          "publisher": "UDN"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "related_news": [],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_a80636753804be00fd3cf491",
-      "title": "焦凡凡",
+      "id": "gt_9828967581edecc6bc34fa2b",
+      "title": "yandex",
       "keywords": [
-        "焦凡凡"
+        "yandex"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:50:00+00:00",
+      "source_published_at": "2026-10-16T16:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+          "url": "https://www.bbc.com/news/articles/c9y7l0pm8jkko",
+          "publisher": "BBC"
+        },
+        {
+          "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
+          "url": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
+          "publisher": "The New York Times"
+        },
+        {
+          "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+          "url": "https://blog.cloudflare.com/yandex-outage",
+          "publisher": "Cloudflare Blog"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_4c5da0bf3bf944a67ebdfa62",
+      "title": "驅逐出境",
+      "keywords": [
+        "驅逐出境"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "台大陸籍交換生借位拍「手捏賴清德」照配統戰圖說 遭移民署驅逐出境",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%A4%A7%E9%99%B8%E7%B1%8D%E4%BA%A4%E6%8F%9B%E7%94%9F%E5%80%9F%E4%BD%8D%E6%8B%8D%E3%80%8C%E6%89%8B%E6%8D%8F%E8%B3%B4%E6%B8%85%E5%BE%B7%E3%80%8D%E7%85%A7%E9%85%8D%E7%B5%B1%E6%88%B0%E5%9C%96%E8%AA%AA-%E9%81%AD%E7%A7%BB%E6%B0%91%E7%BD%B2%E9%A9%85%E9%80%90%E5%87%BA%E5%A2%83-102313093.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "大陸交換生Po捏頭「小小賴清德拿下」遭驅逐出境 喊冤：覺得賴很可愛",
+          "url": "https://udn.com/news/story/7331/9819526",
+          "publisher": "UDN"
+        },
+        {
+          "title": "比捏頭手勢喊「小小賴清德拿下」 涉案中生驅逐出境、廢止入境許可5年",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5608592",
+          "publisher": "自由時報"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a1a98e01a889050c21be81c8",
+      "title": "心動製造所",
+      "keywords": [
+        "心動製造所"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:40:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "100+",
       "rank": null,
       "related_posts": [],
       "related_news": [],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_320c4fb2c567b3c909188014",
-      "title": "丹麥公開賽",
+      "id": "gt_4c8b1f878fdd4a4ca89efc2d",
+      "title": "rtx spark",
       "keywords": [
-        "丹麥公開賽"
+        "rtx spark"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:50:00+00:00",
+      "source_published_at": "2026-10-16T16:20:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "100+",
@@ -78,147 +247,57 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "台灣一哥周天成復仇成功後振奮怒吼！雪恥擊退渡邊航貴闖丹麥賽男單4強戰",
-          "url": "https://tw.sports.yahoo.com/news/%E5%8F%B0%E7%81%A3-%E5%93%A5%E5%91%A8%E5%A4%A9%E6%88%90%E5%BE%A9%E4%BB%87%E6%88%90%E5%8A%9F%E5%BE%8C%E6%8C%AF%E5%A5%AE%E6%80%92%E5%90%BC-%E9%9B%AA%E6%81%A5%E6%93%8A%E9%80%80%E6%B8%A1%E9%82%8A%E8%88%AA%E8%B2%B4%E9%97%96%E4%B8%B9%E9%BA%A5%E8%B3%BD%E7%94%B7%E5%96%AE4%E5%BC%B7%E6%88%B0-233752452.html",
-          "publisher": "Yahoo運動"
+          "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "publisher": "NVIDIA Newsroom"
         },
         {
-          "title": "丹麥羽球公開賽》復仇渡邊 周天成握拳怒吼",
-          "url": "https://sports.ltn.com.tw/news/paper/1774762",
-          "publisher": "自由體育"
+          "title": "Ray tracing ate 10% of my battery every 10 minutes. Can this RTX Spark PC still replace my Steam Deck on a 10-hour road trip?",
+          "url": "https://tech.yahoo.com/computing/articles/ray-tracing-ate-10-battery-160808730.html",
+          "publisher": "Yahoo Tech"
         },
         {
-          "title": "周天成直落二力退日本好手上演復仇 闖丹麥羽賽8強",
-          "url": "https://www.cna.com.tw/news/aspt/202610150269.aspx",
-          "publisher": "中央社 CNA"
+          "title": "We test the RTX Spark Superchip in Microsoft's Surface Laptop Ultra — Nvidia's Windows on Arm platform impresses in local AI, but gaming isn't its strong suit",
+          "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+          "publisher": "Tom's Hardware"
         }
       ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_2062764822990dc85446b0cc",
-      "title": "汐止區",
+      "id": "gt_af5f3355b9940e355333cb24",
+      "title": "嫁金釵劇情",
       "keywords": [
-        "汐止區"
+        "嫁金釵劇情"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:30:00+00:00",
+      "source_published_at": "2026-10-16T16:00:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
-      "search_volume_label": "1000+",
+      "search_volume_label": "100+",
       "rank": null,
       "related_posts": [],
-      "related_news": [
-        {
-          "title": "汐止驚傳夫妻墜樓雙亡！妻當場死亡 夫送醫搶救仍不治",
-          "url": "https://tw.news.yahoo.com/%E5%BF%AB%E8%A8%8A-%E6%B1%90%E6%AD%A2%E7%A4%BE%E5%8D%80%E5%A4%A7%E6%A8%932%E4%BA%BA%E5%A2%9C%E6%A8%93-%E5%A5%B3%E7%95%B6%E5%A0%B4%E6%AD%BB%E4%BA%A1-%E7%94%B7%E5%91%BD%E5%8D%B1%E6%90%B6%E6%95%91%E4%B8%AD-095200527.html",
-          "publisher": "Yahoo新聞"
-        },
-        {
-          "title": "汐止大樓「夫妻檔墜落」...妻子當場身亡　丈夫搶救宣告不治",
-          "url": "https://www.ettoday.net/news/20261016/3256016.htm",
-          "publisher": "ETtoday新聞雲"
-        },
-        {
-          "title": "新北汐止2人同時墜樓女當場死亡男送醫搶救- 社會新聞",
-          "url": "https://news.pchome.com.tw/society/ctinews/20261016/index-79214445863061309002.html",
-          "publisher": "PChome Online 新聞"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "related_news": [],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_3e4eb769721891b26a812789",
-      "title": "蹲",
+      "id": "gt_497e1447bcd54b7af7b89520",
+      "title": "gu jojo",
       "keywords": [
-        "蹲"
+        "gu jojo"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:30:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "健康網》靠牆半蹲也能降血壓！ 6步驟這樣做 研究曝4週見效",
-          "url": "https://health.ltn.com.tw/article/breakingnews/5608800",
-          "publisher": "自由健康網"
-        },
-        {
-          "title": "不是跑步、游泳！研究曝「1類運動」可降血壓 4週就有感",
-          "url": "https://health.setn.com/news/1923102",
-          "publisher": "三立新聞"
-        },
-        {
-          "title": "不吃藥降血壓？靠牆半蹲實測有效 研究登國際期刊",
-          "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%90%83%E8%97%A5%E9%99%8D%E8%A1%80%E5%A3%93-%E9%9D%A0%E7%89%86%E5%8D%8A%E8%B9%B2%E5%AF%A6%E6%B8%AC%E6%9C%89%E6%95%88-%E7%A0%94%E7%A9%B6%E7%99%BB%E5%9C%8B%E9%9A%9B%E6%9C%9F%E5%88%8A-025203660.html",
-          "publisher": "Yahoo新聞"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_cf9180485a2dcf652da82e1e",
-      "title": "法官",
-      "keywords": [
-        "法官"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:30:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "200+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "退休教授好心扶摔倒婦人挨告慘賠11萬！網暴動怒嗆法官「水唷台灣司法」",
-          "url": "https://tw.news.yahoo.com/%E9%80%80%E4%BC%91%E6%95%99%E6%8E%88%E5%A5%BD%E5%BF%83%E6%89%B6%E6%91%94%E5%80%92%E5%A9%A6%E4%BA%BA%E6%8C%A8%E5%91%8A%E6%85%98%E8%B3%A011%E8%90%AC-%E7%B6%B2%E6%9A%B4%E5%8B%95%E6%80%92%E5%97%86%E6%B3%95%E5%AE%98-%E6%B0%B4%E5%94%B7%E5%8F%B0%E7%81%A3%E5%8F%B8%E6%B3%95-102029713.html",
-          "publisher": "Yahoo新聞"
-        },
-        {
-          "title": "助人反賠11萬！退休教授好心扶婦挨告心寒 法官仍勸行善遭網酸：好意思？",
-          "url": "https://udn.com/news/story/7321/9818267",
-          "publisher": "UDN"
-        },
-        {
-          "title": "退休教授「助人反被告」心寒！ 法官暖勸令他重拾善念：再一次仍會幫忙",
-          "url": "https://news.ltn.com.tw/news/society/breakingnews/5606708",
-          "publisher": "自由時報"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_add03e9da357fcc90bb73343",
-      "title": "李昀銳",
-      "keywords": [
-        "李昀銳"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:30:00+00:00",
+      "source_published_at": "2026-10-16T15:50:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "100+",
@@ -226,136 +305,25 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "李昀銳不在錄影名單卻現身！親自接孟子義下班 「一見面就擁抱」全被拍",
-          "url": "https://tw.news.yahoo.com/%E6%9D%8E%E6%98%80%E9%8A%B3%E4%B8%8D%E5%9C%A8%E9%8C%84%E5%BD%B1%E5%90%8D%E5%96%AE%E5%8D%BB%E7%8F%BE%E8%BA%AB-%E8%A6%AA%E8%87%AA%E6%8E%A5%E5%AD%9F%E5%AD%90%E7%BE%A9%E4%B8%8B%E7%8F%AD-%E8%A6%8B%E9%9D%A2%E5%B0%B1%E6%93%81%E6%8A%B1-%E5%85%A8%E8%A2%AB%E6%8B%8D-225000771.html",
-          "publisher": "Yahoo新聞"
+          "title": "アニメ『ジョジョの奇妙な冒険』と「GU（ジーユー）」がコラボレーション！ | NEWS | 「ジョジョの奇妙な冒険」公式ポータルサイト",
+          "url": "https://jojo-portal.com/news/goods/658/",
+          "publisher": "「ジョジョの奇妙な冒険」公式ポータルサイト"
         },
         {
-          "title": "是劇宣還是官宣？李昀銳孟子義「戲外接下班、雨夜共傘」甜度超標 三搭《尚公主》未播就掀嗑CP熱潮",
-          "url": "https://style.udn.com/style/amp/story/8065/9818340",
-          "publisher": "udnSTYLE"
+          "title": "「転売ヤー対策は頼んます」 GU、次回コラボの“シルエット”に「この立ち姿は」「再びカァァァッ!!!!」（ねとらぼ）",
+          "url": "https://news.yahoo.co.jp/articles/39be6c8ec46031cf54f5616cf9678756a0bda421",
+          "publisher": "Yahoo!ニュース"
         },
         {
-          "title": "《百花殺》孟子義新劇《尚公主》熱戀李昀銳4百萬人預約爭睹 他接她下班約會「2舉動」全網嗑翻",
-          "url": "https://www.upmedia.mg/tw/popularity/chinese-dramas/271551",
-          "publisher": "上報"
+          "title": "MAYLA×『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』コラボパンプス登場！東方仗助、岸辺露伴、吉良吉影モデルを華麗にデザイン",
+          "url": "https://www.toy-people.com/jp/?p=115499",
+          "publisher": "玩具人 TOY PEOPLE"
         }
       ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
-    },
-    {
-      "id": "gt_5c857dbc8eadef1b8be4946b",
-      "title": "洛杉磯道奇",
-      "keywords": [
-        "洛杉磯道奇"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:10:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "20000+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "大谷翔平不甘心！道奇三連霸夢碎 霸氣宣告二刀流「明年全部都做」",
-          "url": "https://tw.sports.yahoo.com/news/%E5%A4%A7%E8%B0%B7%E7%BF%94%E5%B9%B3%E4%B8%8D%E7%94%98%E5%BF%83-%E9%81%93%E5%A5%87%E4%B8%89%E9%80%A3%E9%9C%B8%E5%A4%A2%E7%A2%8E-%E9%9C%B8%E6%B0%A3%E5%AE%A3%E5%91%8A%E4%BA%8C%E5%88%80%E6%B5%81-%E6%98%8E%E5%B9%B4%E5%85%A8%E9%83%A8%E9%83%BD%E5%81%9A-041231151.html",
-          "publisher": "Yahoo運動"
-        },
-        {
-          "title": "大谷翔平喊話 明年續扮二刀流",
-          "url": "https://www.cdns.com.tw/articles/1475861",
-          "publisher": "中華日報"
-        },
-        {
-          "title": "MLB／134億打造的道奇豪華艦隊4戰沉沒 羅伯茲：運動迷人的地方",
-          "url": "https://udn.com/news/story/6999/9818884",
-          "publisher": "UDN"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_71c2086638415b35f064bd44",
-      "title": "捲髮奶奶",
-      "keywords": [
-        "捲髮奶奶"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:10:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "西門町大暴走！甜甜圈店員「1秒殺出櫃檯」點餐區跳窗揍女顧客 業者公布監視器還原始末",
-          "url": "https://tw.news.yahoo.com/%E8%A5%BF%E9%96%80%E7%94%BA%E5%A4%A7%E6%9A%B4%E8%B5%B0-%E7%94%9C%E7%94%9C%E5%9C%88%E5%BA%97%E5%93%A1-1%E7%A7%92%E6%AE%BA%E5%87%BA%E6%AB%83%E6%AA%AF-%E9%BB%9E%E9%A4%90%E5%8D%80%E8%B7%B3%E7%AA%97%E6%8F%8D%E5%A5%B3%E9%A1%A7%E5%AE%A2-%E6%A5%AD%E8%80%85%E5%85%AC%E5%B8%83%E7%9B%A3%E8%A6%96%E5%99%A8%E9%82%84%E5%8E%9F%E5%A7%8B%E6%9C%AB-122200279.html",
-          "publisher": "Yahoo新聞"
-        },
-        {
-          "title": "西門町甜甜圈店員「跳出櫃台」揍顧客！店家PO監視器曝真相",
-          "url": "https://news.ebc.net.tw/news/living/576108",
-          "publisher": "東森新聞"
-        },
-        {
-          "title": "女等甜甜圈太久怒砸櫃檯　男店員「情緒失控」跳出櫃檯出手毆人",
-          "url": "https://www.ettoday.net/news/20261016/3256035.htm",
-          "publisher": "ETtoday新聞雲"
-        }
-      ],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_faf6eb0a5246c3e8fcde4f0e",
-      "title": "中國信託金融控股",
-      "keywords": [
-        "中國信託金融控股"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-16T13:00:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "中信金控連六年攜手TIIA 舉辦「台灣影響力投資國際論壇」",
-          "url": "https://www.ctee.com.tw/news/20261016701980-430304",
-          "publisher": "工商時報"
-        },
-        {
-          "title": "中信金控連六年攜手TIIA舉辦「台灣影響力投資國際論壇」 匯聚公私協力與家族力量開拓影響力金融新局| 唐可欣 | 品味生活",
-          "url": "https://www.storm.mg/article/11173181",
-          "publisher": "風傳媒"
-        },
-        {
-          "title": "中信金控連六年攜手TIIA舉辦「台灣影響力投資國際論壇」",
-          "url": "https://www.upmedia.mg/tw/lifestyle/spotlight/271625",
-          "publisher": "上報"
-        }
-      ],
-      "first_seen_at": "2026-10-15T08:24:00.507379+00:00",
-      "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "collected_at": "2026-10-16T14:00:19.316258+00:00",
-      "snapshot_count": 2
     }
   ]
 }

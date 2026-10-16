@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T14:00:19.316258+00:00",
+  "updated_at": "2026-10-16T18:50:14.449673+00:00",
   "topics": [
     {
       "id": "gt_42b4625400a3252abcd2d03e",
@@ -3579,6 +3579,328 @@
       "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
       "last_seen_at": "2026-10-16T14:00:19.316258+00:00",
       "collected_at": "2026-10-16T14:00:19.316258+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_07f0a18510e99f0f8d27e898",
+      "title": "碰撞",
+      "keywords": [
+        "碰撞"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T18:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "屏東救護車送九旬婦就醫 擦撞貨車又撞上變電箱",
+          "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2026-10-16/2497713.html",
+          "publisher": "壹電視"
+        },
+        {
+          "title": "鳴笛載9旬婦就醫…路口猛撞左轉貨車！救護車車頭爛毀慘況曝",
+          "url": "https://www.ettoday.net/news/20261016/3255873.htm",
+          "publisher": "ETtoday新聞雲"
+        },
+        {
+          "title": "屏東救護車鳴笛載95歲阿嬤就醫！半路殺出小貨車 車頭撞爛釀3傷",
+          "url": "https://www.knews.com.tw/news/BDED462CD80045896F267DC006B245AA",
+          "publisher": "知新聞"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_fb7562855844c81515b969eb",
+      "title": "vix",
+      "keywords": [
+        "vix"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "VIX Falls 2.4 Percent as Markets Absorb Hot Producer Inflation",
+          "url": "https://suaragarut.id/en/vix-falls-producer-inflation-market-outlook",
+          "publisher": "SuaraGarut.ID"
+        },
+        {
+          "title": "VIX faces hot PPI after 2.4 percent drop ahead of the open",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-faces-hot-ppi-after-2-4-percent-drop-ahead-of-the-open/70339686",
+          "publisher": "ad-hoc-news.de"
+        },
+        {
+          "title": "VIX rises 10.5 percent ahead of the open after hot CPI",
+          "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/vix-rises-10-5-percent-ahead-of-the-open-after-hot-cpi/70329442",
+          "publisher": "ad-hoc-news.de"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a3cce39c07351ac7f44dcc9e",
+      "title": "原油",
+      "keywords": [
+        "原油"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:10:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "油價飆破107美元 沙烏地與荷莫茲海峽遇襲恐推升全球物價",
+          "url": "https://tw.stock.yahoo.com/news/%E6%B2%B9%E5%83%B9%E9%A3%86%E7%A0%B4107%E7%BE%8E%E5%85%83-%E6%B2%99%E7%83%8F%E5%9C%B0%E8%88%87%E8%8D%B7%E8%8E%AB%E8%8C%B2%E6%B5%B7%E5%B3%BD%E9%81%87%E8%A5%B2%E6%81%90%E6%8E%A8%E5%8D%87%E5%85%A8%E7%90%83%E7%89%A9%E5%83%B9-055517101.html",
+          "publisher": "Yahoo股市"
+        },
+        {
+          "title": "《油價》原油庫存大減 NYMEX原油上漲3% - 頭條新聞 - 新聞",
+          "url": "https://m.moneydj.com/f1a.aspx?a=13aa5a9b-e155-44bd-afbb-db108a8d2ba3&c=MB010000",
+          "publisher": "MoneyDJ"
+        },
+        {
+          "title": "能源供應警報連響！美油突破100美元、布蘭特逼近110美元",
+          "url": "https://news.cnyes.com/news/id/6632483",
+          "publisher": "鉅亨網"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_0be066dd5662c109f1a6302d",
+      "title": "股災",
+      "keywords": [
+        "股災"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T17:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "1000+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_9828967581edecc6bc34fa2b",
+      "title": "yandex",
+      "keywords": [
+        "yandex"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+          "url": "https://www.bbc.com/news/articles/c9y7l0pm8jkko",
+          "publisher": "BBC"
+        },
+        {
+          "title": "Data Centers Become Targets in Wars in Ukraine, Russia and the Middle East",
+          "url": "https://www.nytimes.com/2026/10/15/business/russia-ukraine-data-centers-war.html",
+          "publisher": "The New York Times"
+        },
+        {
+          "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+          "url": "https://blog.cloudflare.com/yandex-outage",
+          "publisher": "Cloudflare Blog"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_4c5da0bf3bf944a67ebdfa62",
+      "title": "驅逐出境",
+      "keywords": [
+        "驅逐出境"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "台大陸籍交換生借位拍「手捏賴清德」照配統戰圖說 遭移民署驅逐出境",
+          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E5%A4%A7%E9%99%B8%E7%B1%8D%E4%BA%A4%E6%8F%9B%E7%94%9F%E5%80%9F%E4%BD%8D%E6%8B%8D%E3%80%8C%E6%89%8B%E6%8D%8F%E8%B3%B4%E6%B8%85%E5%BE%B7%E3%80%8D%E7%85%A7%E9%85%8D%E7%B5%B1%E6%88%B0%E5%9C%96%E8%AA%AA-%E9%81%AD%E7%A7%BB%E6%B0%91%E7%BD%B2%E9%A9%85%E9%80%90%E5%87%BA%E5%A2%83-102313093.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "大陸交換生Po捏頭「小小賴清德拿下」遭驅逐出境 喊冤：覺得賴很可愛",
+          "url": "https://udn.com/news/story/7331/9819526",
+          "publisher": "UDN"
+        },
+        {
+          "title": "比捏頭手勢喊「小小賴清德拿下」 涉案中生驅逐出境、廢止入境許可5年",
+          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5608592",
+          "publisher": "自由時報"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_a1a98e01a889050c21be81c8",
+      "title": "心動製造所",
+      "keywords": [
+        "心動製造所"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_4c8b1f878fdd4a4ca89efc2d",
+      "title": "rtx spark",
+      "keywords": [
+        "rtx spark"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:20:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "NVIDIA RTX Spark PCs Available Today — A New Beginning for Windows PCs",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "publisher": "NVIDIA Newsroom"
+        },
+        {
+          "title": "Ray tracing ate 10% of my battery every 10 minutes. Can this RTX Spark PC still replace my Steam Deck on a 10-hour road trip?",
+          "url": "https://tech.yahoo.com/computing/articles/ray-tracing-ate-10-battery-160808730.html",
+          "publisher": "Yahoo Tech"
+        },
+        {
+          "title": "We test the RTX Spark Superchip in Microsoft's Surface Laptop Ultra — Nvidia's Windows on Arm platform impresses in local AI, but gaming isn't its strong suit",
+          "url": "https://www.tomshardware.com/laptops/we-test-the-rtx-spark-superchip-in-microsofts-surface-laptop-ultra-nvidias-windows-on-arm-platform-impresses-in-local-ai-but-gaming-isnt-its-strong-suit",
+          "publisher": "Tom's Hardware"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_af5f3355b9940e355333cb24",
+      "title": "嫁金釵劇情",
+      "keywords": [
+        "嫁金釵劇情"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T16:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_497e1447bcd54b7af7b89520",
+      "title": "gu jojo",
+      "keywords": [
+        "gu jojo"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-16T15:50:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "アニメ『ジョジョの奇妙な冒険』と「GU（ジーユー）」がコラボレーション！ | NEWS | 「ジョジョの奇妙な冒険」公式ポータルサイト",
+          "url": "https://jojo-portal.com/news/goods/658/",
+          "publisher": "「ジョジョの奇妙な冒険」公式ポータルサイト"
+        },
+        {
+          "title": "「転売ヤー対策は頼んます」 GU、次回コラボの“シルエット”に「この立ち姿は」「再びカァァァッ!!!!」（ねとらぼ）",
+          "url": "https://news.yahoo.co.jp/articles/39be6c8ec46031cf54f5616cf9678756a0bda421",
+          "publisher": "Yahoo!ニュース"
+        },
+        {
+          "title": "MAYLA×『ジョジョの奇妙な冒険 ダイヤモンドは砕けない』コラボパンプス登場！東方仗助、岸辺露伴、吉良吉影モデルを華麗にデザイン",
+          "url": "https://www.toy-people.com/jp/?p=115499",
+          "publisher": "玩具人 TOY PEOPLE"
+        }
+      ],
+      "first_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "last_seen_at": "2026-10-16T18:50:14.449673+00:00",
+      "collected_at": "2026-10-16T18:50:14.449673+00:00",
       "snapshot_count": 1
     }
   ]
