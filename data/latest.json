@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "collected_at": "2026-10-17T13:00:22.083956+00:00",
+  "collected_at": "2026-10-17T17:52:22.945463+00:00",
   "source": "google_trends",
   "topics": [
     {
-      "id": "gt_ef49aeea415e2564eac96de2",
-      "title": "歌手",
+      "id": "gt_db3afd52c801150cece175a1",
+      "title": "巴薩",
       "keywords": [
-        "歌手"
+        "巴薩"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:50:00+00:00",
+      "source_published_at": "2026-10-17T17:20:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "100+",
@@ -20,247 +20,258 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "YouTube Music adds new labels for AI music",
-          "url": "https://blog.youtube/news-and-events/youtube-music-ai-labels/",
-          "publisher": "YouTube Official Blog"
+          "title": "[流言板]巴萨前9轮轰36球！创1950/51赛季以来西甲同期进球新高",
+          "url": "https://m.hupu.com/bbs/643038508",
+          "publisher": "虎扑体育"
         },
         {
-          "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-          "url": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-          "publisher": "Ars Technica"
+          "title": "半场-巴萨暂2-1贝蒂斯 亚马尔精彩世界波罗德里巴萨生涯首球",
+          "url": "https://news.zhibo8.com/zuqiu/2026-10-18/6ad39b4b46e0bnative.htm",
+          "publisher": "直播吧"
         },
         {
-          "title": "YouTube sticks new labels on AI-generated songs",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-          "publisher": "The Verge"
+          "title": "西甲前瞻:皇家贝蒂斯 VS 巴塞罗那",
+          "url": "https://news.7m.com.cn/news/20261017/742874.shtml",
+          "publisher": "7M足球新闻"
         }
       ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_56a741909d2b357669f0b05d",
-      "title": "陳亞蘭",
+      "id": "gt_0960d9302b597e8d21e34491",
+      "title": "陳菊",
       "keywords": [
-        "陳亞蘭"
+        "陳菊"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:50:00+00:00",
+      "source_published_at": "2026-10-17T17:20:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "200+",
       "rank": null,
       "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_318e5bb450426f4c007c8f5b",
-      "title": "郭婷筠",
-      "keywords": [
-        "郭婷筠"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:40:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
       "related_news": [
         {
-          "title": "郭婷筠遭酸民人身攻擊！深夜發文吐心聲　一句「只怕爸媽難過」惹心疼",
-          "url": "https://stars.udn.com/star/story/10088/9818545",
-          "publisher": "噓！星聞"
-        },
-        {
-          "title": "長相、身材全被批！台語女歌手心碎發聲不忍了：上輩子踩到你們祖墳？",
-          "url": "https://tw.news.yahoo.com/%E9%95%B7%E7%9B%B8-%E8%BA%AB%E6%9D%90%E5%85%A8%E8%A2%AB%E6%89%B9-%E5%8F%B0%E8%AA%9E%E5%A5%B3%E6%AD%8C%E6%89%8B%E5%BF%83%E7%A2%8E%E7%99%BC%E8%81%B2%E4%B8%8D%E5%BF%8D%E4%BA%86-%E4%B8%8A%E8%BC%A9%E5%AD%90%E8%B8%A9%E5%88%B0%E4%BD%A0%E5%80%91%E7%A5%96%E5%A2%B3-002500843.html",
+          "title": "高雄市長選戰尬場！賴瑞隆鳳山成立競總蔡英文助陣 柯志恩直搗對手本命區小港韓國瑜加持",
+          "url": "https://tw.news.yahoo.com/%E9%AB%98%E9%9B%84%E5%B8%82%E9%95%B7%E9%81%B8%E6%88%B0%E5%B0%AC%E5%A0%B4%EF%BC%81%E8%B3%B4%E7%91%9E%E9%9A%86%E9%B3%B3%E5%B1%B1%E6%88%90%E7%AB%8B%E7%AB%B6%E7%B8%BD%E8%94%A1%E8%8B%B1%E6%96%87%E5%8A%A9%E9%99%A3-%E6%9F%AF%E5%BF%97%E6%81%A9%E7%9B%B4%E6%90%97%E5%B0%8D%E6%89%8B%E6%9C%AC%E5%91%BD%E5%8D%80%E5%B0%8F%E6%B8%AF%E9%9F%93%E5%9C%8B%E7%91%9C%E5%8A%A0%E6%8C%81-134226516.html",
           "publisher": "Yahoo新聞"
         },
         {
-          "title": "郭婷筠吐心聲！不忍父母見自己挨罵 委屈喊「是不是女兒做得不夠好」",
-          "url": "https://ent.ltn.com.tw/news/breakingnews/5607847",
-          "publisher": "自由娛樂"
-        }
-      ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_1d7501c61cbedf1cdf901cc1",
-      "title": "陳素月",
-      "keywords": [
-        "陳素月"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:20:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_42163a28e11480d830a83a64",
-      "title": "伊加·斯威雅蒂",
-      "keywords": [
-        "伊加·斯威雅蒂"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:20:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "Wuhan semifinals preview: An all-Polish reunion and a pair of surprises",
-          "url": "https://www.wtatennis.com/news/4593246/wuhan-semifinal-preview-iga-swiatek-maja-chwalinska-jelena-ostapenko-sonay-kartal",
-          "publisher": "WTA Tennis"
+          "title": "「貓派大集結」 蕭美琴、蔡英文今晚為「隆貓」賴瑞隆站台",
+          "url": "https://video.ltn.com.tw/article/iiOC0CsG3VA/PLI7xntdRxhw1gDu9DJwSWvhyraLk-de62",
+          "publisher": "自由時報"
         },
         {
-          "title": "Iga Swiatek, 25, completes circle and reaches semifinals in all 16 major tournaments",
-          "url": "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/170614/iga-swiatek-25-completes-circle-and-reaches-semifinals-in-all-16-major-tournaments/",
-          "publisher": "Tennis World USA"
-        },
-        {
-          "title": "How to watch the women’s Dongfeng Voyah Wuhan Open: Streaming options for the Semifinal",
-          "url": "https://www.nytimes.com/athletic/7697688/2026/10/16/womens-dongfeng-voyah-wuhan-open-stream-how-to-watch-october-17/",
-          "publisher": "The New York Times"
-        }
-      ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_6b59a9433c2e3435db0b5fb1",
-      "title": "市值",
-      "keywords": [
-        "市值"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:20:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "恐慌拋售！晶片類股市值蒸發81兆 記憶體跌逾20％再陷熊市",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5609549",
-          "publisher": "自由財經"
-        },
-        {
-          "title": "MU：DRAM拋售是警示還是機遇？",
-          "url": "https://www.moomoo.com/hant/community/feed/117438287905181",
-          "publisher": "Moomoo"
-        },
-        {
-          "title": "恐慌拋售！晶片類股市值蒸發81兆 記憶體跌逾20％再陷熊市",
-          "url": "https://news.wearn.com/c2127292.html",
-          "publisher": "聚財網"
-        }
-      ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 1
-    },
-    {
-      "id": "gt_5c857dbc8eadef1b8be4946b",
-      "title": "洛杉磯道奇",
-      "keywords": [
-        "洛杉磯道奇"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:10:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "1000+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [],
-      "first_seen_at": "2026-10-16T14:00:19.316258+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
-      "snapshot_count": 2
-    },
-    {
-      "id": "gt_08f4381aa8af8b74936f0737",
-      "title": "賴瑞隆競選總部",
-      "keywords": [
-        "賴瑞隆競選總部"
-      ],
-      "category": "其他",
-      "source": "google_trends",
-      "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T12:10:00+00:00",
-      "trend_started_at": null,
-      "status": "unknown",
-      "search_volume_label": "100+",
-      "rank": null,
-      "related_posts": [],
-      "related_news": [
-        {
-          "title": "高雄「隆捲風」！賴瑞隆競總成立　「人潮滿出來」畫面曝光走5分鐘",
-          "url": "https://www.setn.com/news/1924193",
-          "publisher": "三立新聞"
-        },
-        {
-          "title": "賴瑞隆連兩天深入山城原鄉、獲名「達卡鬧」 邱議瑩挺接棒：挺高雄利益擺第一的人選- 政治新聞",
-          "url": "https://news.pchome.com.tw/politics/hoomedia/20261017/index-79221076882265344001.html",
-          "publisher": "PChome Online 新聞"
-        },
-        {
-          "title": "賴瑞隆第二波募款小物10/17推出三款T-shirt | NOWNEWS今日新聞",
-          "url": "https://today.line.me/tw/v3/article/zNMyx7j",
+          "title": "高雄大拚場！陳其邁酸韓：差點把大港變中華 | NOWNEWS今日新聞",
+          "url": "https://today.line.me/tw/v3/article/RBKy9DY",
           "publisher": "LINE TODAY"
         }
       ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_a4290999f9e8d1b67809d3ac",
-      "title": "persita vs persija jakarta",
+      "id": "gt_711511ef73ce2b1819bcb7e9",
+      "title": "gt world challenge",
       "keywords": [
-        "persita vs persija jakarta"
+        "gt world challenge"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T11:50:00+00:00",
+      "source_published_at": "2026-10-17T16:40:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Q&A with Max Verstappen",
+          "url": "https://www.gt-world-challenge-europe.com/news/3339/qa-with-max-verstappen",
+          "publisher": "GT World Challenge Europe Powered by AWS"
+        },
+        {
+          "title": "Boutsen VDS Storms To Portimão Pole",
+          "url": "https://www.dailysportscar.com/2026/10/16/boutsen-vds-storms-to-portimao-pole.html",
+          "publisher": "dailysportscar.com"
+        },
+        {
+          "title": "On pay-TV and via livestream: Here’s how you can watch Max Verstappen’s race",
+          "url": "https://www.speedweek.com/en/a/formula-1/max-verstappen-race-livestream-sky-portimao",
+          "publisher": "SPEEDWEEK.com"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_5bed91501269f5d363e43b6e",
+      "title": "拜仁慕尼黑 對 萊比錫rb",
+      "keywords": [
+        "拜仁慕尼黑 對 萊比錫rb"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Brentford 1-2 Liverpool (Oct 17, 2026) Player Stats",
+          "url": "https://www.espn.com/soccer/player-stats/_/gameId/401879262",
+          "publisher": "ESPN"
+        },
+        {
+          "title": "Pistons' Jalen Duren: Tallies 14 points vs. Toronto",
+          "url": "https://www.cbssports.com/fantasy/basketball/news/pistons-jalen-duren-tallies-14-points-vs-toronto/",
+          "publisher": "CBS Sports"
+        },
+        {
+          "title": "Newcastle vs. Aston Villa (Oct 17, 2026) Team Stats",
+          "url": "https://www.espn.com/soccer/team-stats/_/gameId/401879258/league/eng.1",
+          "publisher": "ESPN"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_fc0eb7d6fb6d10b8d339d90b",
+      "title": "英雄聯盟世界大賽",
+      "keywords": [
+        "英雄聯盟世界大賽"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "200+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Faker、Chovy都被超越了！《英雄聯盟》世界賽新人首登場就打破歷史紀錄",
+          "url": "https://tw.news.yahoo.com/faker%E3%80%81chovy%E9%83%BD%E8%A2%AB%E8%B6%85%E8%B6%8A%E4%BA%86%EF%BC%81%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8B%E4%B8%96%E7%95%8C%E8%B3%BD%E6%96%B0%E4%BA%BA%E9%A6%96%E7%99%BB%E5%A0%B4%E5%B0%B1%E6%89%93%E7%A0%B4%E6%AD%B7%E5%8F%B2%E7%B4%80%E9%8C%84-143935559.html",
+          "publisher": "Yahoo新聞"
+        },
+        {
+          "title": "《英雄聯盟》世界大賽北美 C9 不敵巴西成為首支遭淘汰隊伍 歐洲 KC 直落三擊敗 LCP 代表隊 MVK",
+          "url": "https://gnn.gamer.com.tw/detail.php?sn=313589",
+          "publisher": "GNN 新聞網"
+        },
+        {
+          "title": "《英雄聯盟》2026 世界大賽正式開打！入圍賽「4 搶 1」MVK 橫掃 FUR，C9 明日迎生死戰",
+          "url": "https://www.cool-style.com.tw/wd2/archives/1352325-%E3%80%8A%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F%E3%80%8B%E4%B8%96%E7%95%8C%E5%A4%A7%E8%B3%BD%E6%AD%A3%E5%BC%8F%E9%96%8B%E6%89%93%EF%BC%81%E5%85%A5%E5%9C%8D%E8%B3%BD%E3%80%8C4-%E6%90%B6-1%E3%80%8Dmvk",
+          "publisher": "COOL-STYLE 潮流生活網"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_b38b53f7c03114799cdacf5e",
+      "title": "利物浦",
+      "keywords": [
+        "利物浦"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "[流言板]利物浦0-1蜜蜂半场数据：射门数7-6，控球率59%-41%",
+          "url": "https://bbs.hupu.com/643035496.html",
+          "publisher": "虎扑体育"
+        },
+        {
+          "title": "维尔茨的传奇夜晚：英超近10季第2位单场贡献9次关键传球的球员",
+          "url": "https://m.sohu.com/a/1089109968_121894857?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+          "publisher": "搜狐"
+        },
+        {
+          "title": "利物浦客战布伦特福德 近两次交手未尝胜绩",
+          "url": "https://news.7m.com.cn/news/20261017/742792.shtml",
+          "publisher": "7M足球新闻"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_69eaa03ae9ae8a566a806713",
+      "title": "premier league",
+      "keywords": [
+        "premier league"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:30:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "100+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Iwobi strike gives Fulham first league win",
+          "url": "https://www.bbc.com/sport/football/live/cx98zgy30d4zt",
+          "publisher": "BBC"
+        },
+        {
+          "title": "Fulham 1-0 Hull City",
+          "url": "https://www.fulhamfc.com/news/2026/october/17/fulham-1-0-hull-city/",
+          "publisher": "Fulham FC"
+        },
+        {
+          "title": "Hull City player ratings at Fulham as awful Tigers well-beaten",
+          "url": "https://www.hulldailymail.co.uk/sport/football/football-news/hull-city-player-ratings-fulham-11202892",
+          "publisher": "Hull Live"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_6f263c5cac11c7939f191a97",
+      "title": "betis vs barcelona",
+      "keywords": [
+        "betis vs barcelona"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:20:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "500+",
@@ -268,36 +279,36 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "Persita vs Persija Live Score Oct 17, 2026: Results and Lineups",
-          "url": "https://aktualita.co/en/sports/persita-vs-persija-live-score-oct-17-2026-results-and-lineups",
-          "publisher": "Aktualita.co"
+          "title": "Polémica en Betis vs Barcelona: por qué se anuló el gol de Lo Celso",
+          "url": "https://www.365scores.com/es/news/polemica-en-betis-vs-barcelona-anulado/",
+          "publisher": "365Scores"
         },
         {
-          "title": "Persita vs Persija Lineup Prediction: Shin Tae-yong Targets Rayco",
-          "url": "https://aktualita.co/en/sports/persita-vs-persija-lineup-prediction-shin-tae-yong-targets-rayco",
-          "publisher": "Aktualita.co"
+          "title": "Como con Negreira: anulan un golazo a Lo Celso por una mano previa pese a que hubo un despeje segundos desp...",
+          "url": "https://okdiario.com/deportes/como-negreira-anulan-golazo-lo-celso-mano-previa-pese-que-hubo-despeje-segundos-despues-20572841",
+          "publisher": "OkDiario"
         },
         {
-          "title": "Persita vs Persija Live Broadcast Schedule: TV Channel and Kickoff",
-          "url": "https://aktualita.co/en/sports/persita-vs-persija-live-broadcast-schedule-tv-channel-and-kickoff",
-          "publisher": "Aktualita.co"
+          "title": "Betis-Barça: Lo Celso marcaba un GOLAZO, pero el VAR lo anuló",
+          "url": "https://onefootball.com/es/noticias/betis-barca-lo-celso-marcaba-un-golazo-pero-el-var-lo-anulo-43627009",
+          "publisher": "OneFootball"
         }
       ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
       "snapshot_count": 1
     },
     {
-      "id": "gt_d56b981d1aaa1da3cecc796b",
-      "title": "เอฟเวอร์ตัน พบ เชลซี",
+      "id": "gt_24606da4959a1ef3d4812a40",
+      "title": "法甲",
       "keywords": [
-        "เอฟเวอร์ตัน พบ เชลซี"
+        "法甲"
       ],
       "category": "其他",
       "source": "google_trends",
       "source_url": "https://trends.google.com/trending/rss?geo=TW",
-      "source_published_at": "2026-10-17T11:50:00+00:00",
+      "source_published_at": "2026-10-17T16:10:00+00:00",
       "trend_started_at": null,
       "status": "unknown",
       "search_volume_label": "200+",
@@ -305,24 +316,61 @@
       "related_posts": [],
       "related_news": [
         {
-          "title": "คอมพิวเตอร์ทำนายผลการแข่งขันพรีเมียร์ลีก รอบที่ 7: มีเพียงแมนเชสเตอร์ ซิตี้ เท่านั้นที่การันตีชัยชนะ",
-          "url": "https://www.vietnam.vn/th/may-tinh-du-doan-vong-7-ngoai-hang-anh-chi-co-man-city-chac-thang",
-          "publisher": "Vietnam.vn"
+          "title": "[流言板]白堡主帅：巴黎最强的是不仅个人能力强，且每个人都为团队",
+          "url": "https://bbs.hupu.com/642997224.html",
+          "publisher": "虎扑体育"
         },
         {
-          "title": "แจกลิ้งค์ดูสดวันนี้ เอฟเวอร์ตัน พบ เชลซี ดูบอลสด พรีเมียร์ลีก อังกฤษ",
-          "url": "https://www.bangkokbiznews.com/news/sport/1256767",
-          "publisher": "bangkokbiznews"
+          "title": "法甲吸引力不足？恩里克在赛前发布会的幽默反思与媒体关注度的背后",
+          "url": "https://m.sohu.com/a/1088843591_121894857/?pvid=000115_3w_a",
+          "publisher": "搜狐"
         },
         {
-          "title": "ปรีวิว-ฟันธง! สิงห์กำลังคึกหวังอัดทอฟฟี่",
-          "url": "https://www.naewna.com/n/sports/118530/",
-          "publisher": "แนวหน้า"
+          "title": "剑南春｜巴黎圣日耳曼3-1斯特拉斯堡暂登顶，登贝莱传射建功+失点",
+          "url": "https://m.dongqiudi.com/article/6505852.html",
+          "publisher": "懂球帝"
         }
       ],
-      "first_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "last_seen_at": "2026-10-17T13:00:22.083956+00:00",
-      "collected_at": "2026-10-17T13:00:22.083956+00:00",
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
+      "snapshot_count": 1
+    },
+    {
+      "id": "gt_d83e4737d8878e0ab279a1bb",
+      "title": "皇家貝提斯 對 巴塞隆納",
+      "keywords": [
+        "皇家貝提斯 對 巴塞隆納"
+      ],
+      "category": "其他",
+      "source": "google_trends",
+      "source_url": "https://trends.google.com/trending/rss?geo=TW",
+      "source_published_at": "2026-10-17T16:00:00+00:00",
+      "trend_started_at": null,
+      "status": "unknown",
+      "search_volume_label": "500+",
+      "rank": null,
+      "related_posts": [],
+      "related_news": [
+        {
+          "title": "Real Betis vs Barcelona: Spanish La Liga stats & head-to-head",
+          "url": "https://www.bbc.com/sport/football/live/ck5ynp68evpvt",
+          "publisher": "BBC"
+        },
+        {
+          "title": "Real Betis vs Barcelona live online: score, stats, goals & updates | LaLiga 2026/27",
+          "url": "https://en.as.com/soccer/real-betis-vs-barcelona-live-online-score-stats-goals-updates-laliga-202627-f202610-n/",
+          "publisher": "Diario AS"
+        },
+        {
+          "title": "Real Betis vs. FC Barcelona (Matchday #9)",
+          "url": "https://www.espn.com/watch/player/_/eventCalendarId/401882846",
+          "publisher": "ESPN"
+        }
+      ],
+      "first_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "last_seen_at": "2026-10-17T17:52:22.945463+00:00",
+      "collected_at": "2026-10-17T17:52:22.945463+00:00",
       "snapshot_count": 1
     }
   ]
